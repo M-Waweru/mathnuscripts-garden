@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/produce-a-lot-of-shitty-work/"}
+{"dg-publish":true,"permalink":"/content/essays/produce-a-lot-of-shitty-work/","noteIcon":"2"}
 ---
 
 # Produce a Lot of Shitty Work
