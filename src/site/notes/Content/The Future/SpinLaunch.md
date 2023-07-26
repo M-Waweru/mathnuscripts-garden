@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-future/spin-launch/"}
+{"dg-publish":true,"permalink":"/content/the-future/spin-launch/","noteIcon":"2"}
 ---
 
 # SpinLaunch
