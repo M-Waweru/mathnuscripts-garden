@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/living-in-the-software-age/"}
+{"dg-publish":true,"permalink":"/content/essays/living-in-the-software-age/","noteIcon":"2"}
 ---
 
 # Living in the Software Age
