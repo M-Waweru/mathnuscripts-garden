@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/go-ahead-scroll-your-life-away/"}
+{"dg-publish":true,"permalink":"/content/essays/go-ahead-scroll-your-life-away/","noteIcon":"2"}
 ---
 
 # Go Ahead, Scroll Your Life Away
