@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/whats-app-for-more-than-messaging/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/whats-app-for-more-than-messaging/","noteIcon":"2"}
 ---
 
 # WhatsApp for More than Messaging
