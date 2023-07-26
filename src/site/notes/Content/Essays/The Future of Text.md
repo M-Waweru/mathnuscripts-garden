@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/the-future-of-text/"}
+{"dg-publish":true,"permalink":"/content/essays/the-future-of-text/","noteIcon":"2"}
 ---
 
 # The Future of Text
