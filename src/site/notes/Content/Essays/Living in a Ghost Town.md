@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/living-in-a-ghost-town/"}
+{"dg-publish":true,"permalink":"/content/essays/living-in-a-ghost-town/","noteIcon":"2"}
 ---
 
 # Living in a Ghost Town
