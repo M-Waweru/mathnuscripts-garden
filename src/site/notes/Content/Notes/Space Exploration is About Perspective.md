@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/space-exploration-is-about-perspective/"}
+{"dg-publish":true,"permalink":"/content/notes/space-exploration-is-about-perspective/","noteIcon":"2"}
 ---
 
 # Space Exploration is About Perspective
