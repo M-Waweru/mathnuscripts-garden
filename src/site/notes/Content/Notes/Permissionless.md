@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/permissionless/"}
+{"dg-publish":true,"permalink":"/content/notes/permissionless/","noteIcon":"2"}
 ---
 
 # Permissionless Economy
