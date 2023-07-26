@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/in-search-of-competence/"}
+{"dg-publish":true,"permalink":"/content/essays/in-search-of-competence/","noteIcon":"2"}
 ---
 
 # In Search of Competence
