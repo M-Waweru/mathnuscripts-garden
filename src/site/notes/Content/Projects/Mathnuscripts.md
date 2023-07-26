@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/projects/mathnuscripts/"}
+{"dg-publish":true,"permalink":"/content/projects/mathnuscripts/","noteIcon":"2"}
 ---
 
 # Mathnuscripts
