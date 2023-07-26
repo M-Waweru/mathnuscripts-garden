@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/finding-passion-in-a-passionless-age/"}
+{"dg-publish":true,"permalink":"/content/notes/finding-passion-in-a-passionless-age/","noteIcon":"2"}
 ---
 
 # [[Kierkegaard\|Kierkegaard]] on the Present (Passionless) Age
