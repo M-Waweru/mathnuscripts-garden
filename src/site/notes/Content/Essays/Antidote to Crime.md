@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/antidote-to-crime/"}
+{"dg-publish":true,"permalink":"/content/essays/antidote-to-crime/","noteIcon":"2"}
 ---
 
 # Antidote to Crime
