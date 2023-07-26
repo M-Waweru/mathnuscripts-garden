@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/what-are-the-mathnuscripts/"}
+{"dg-publish":true,"permalink":"/content/essays/what-are-the-mathnuscripts/","noteIcon":"2"}
 ---
 
 # What are the Mathnuscripts
