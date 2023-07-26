@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/my-living-manuscript/"}
+{"dg-publish":true,"permalink":"/content/essays/my-living-manuscript/","noteIcon":"2"}
 ---
 
 # My Living Manuscript
