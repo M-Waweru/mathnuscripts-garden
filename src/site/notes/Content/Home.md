@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/content/home/","tags":["gardenEntry"],"noteIcon":"2"}
 ---
 
 # MathnuScripts
