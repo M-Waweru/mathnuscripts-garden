@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/there-is-nothing-better-to-do/"}
+{"dg-publish":true,"permalink":"/content/essays/there-is-nothing-better-to-do/","noteIcon":"2"}
 ---
 
 # There is Nothing Better To Do
