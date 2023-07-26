@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/developers-building-startups/"}
+{"dg-publish":true,"permalink":"/content/notes/developers-building-startups/","noteIcon":"2"}
 ---
 
 # Developers Building Startups
