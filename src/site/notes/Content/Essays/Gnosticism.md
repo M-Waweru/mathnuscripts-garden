@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/gnosticism/"}
+{"dg-publish":true,"permalink":"/content/essays/gnosticism/","noteIcon":"2"}
 ---
 
 # Gnosticism
