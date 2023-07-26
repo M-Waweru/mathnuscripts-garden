@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-future/decentralised-social-media/"}
+{"dg-publish":true,"permalink":"/content/the-future/decentralised-social-media/","noteIcon":"2"}
 ---
 
 # Decentralised Social Media
