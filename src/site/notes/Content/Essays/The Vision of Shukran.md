@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/the-vision-of-shukran/"}
+{"dg-publish":true,"permalink":"/content/essays/the-vision-of-shukran/","noteIcon":"2"}
 ---
 
 # The Vision of Shukran
