@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/projects/problems-to-solve/"}
+{"dg-publish":true,"permalink":"/content/projects/problems-to-solve/","noteIcon":"2"}
 ---
 
 # Problems to Solve
