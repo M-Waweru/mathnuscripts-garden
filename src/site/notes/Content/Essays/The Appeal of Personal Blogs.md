@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/the-appeal-of-personal-blogs/"}
+{"dg-publish":true,"permalink":"/content/essays/the-appeal-of-personal-blogs/","noteIcon":"2"}
 ---
 
 # The Appeal of a Personal Blog
