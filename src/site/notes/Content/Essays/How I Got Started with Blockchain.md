@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/how-i-got-started-with-blockchain/"}
+{"dg-publish":true,"permalink":"/content/essays/how-i-got-started-with-blockchain/","noteIcon":"2"}
 ---
 
 # How I Got Started with Blockchain
