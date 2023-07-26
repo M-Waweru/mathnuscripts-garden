@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/winning-makes-things-easier/"}
+{"dg-publish":true,"permalink":"/content/essays/winning-makes-things-easier/","noteIcon":"2"}
 ---
 
 # Winning makes things easier
