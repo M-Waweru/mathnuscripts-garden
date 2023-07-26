@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/mosquito-problem/"}
+{"dg-publish":true,"permalink":"/content/notes/mosquito-problem/","noteIcon":"2"}
 ---
 
 # Mosquito Problem
