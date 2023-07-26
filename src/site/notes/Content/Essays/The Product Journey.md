@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/the-product-journey/"}
+{"dg-publish":true,"permalink":"/content/essays/the-product-journey/","noteIcon":"2"}
 ---
 
 # The Innovation Journey
