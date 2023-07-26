@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/the-5-ms-by-amerix/"}
+{"dg-publish":true,"permalink":"/content/notes/the-5-ms-by-amerix/","noteIcon":"2"}
 ---
 
 # The 5Ms by Amerix
