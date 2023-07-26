@@ -36,6 +36,7 @@
 - [[Content/Essays/Antidote to Crime\|Antidote to Crime]]
 - [[Content/Essays/The Product Journey\|The Product Journey]]
 - [[Content/Essays/Why Software is Important\|Why Software is Important]]
+- [[Content/Essays/Being a Tinkerer\|Being a Tinkerer]]
 
 { .block-language-dataview}
 
