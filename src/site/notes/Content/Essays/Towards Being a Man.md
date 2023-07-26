@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/towards-being-a-man/"}
+{"dg-publish":true,"permalink":"/content/essays/towards-being-a-man/","noteIcon":"2"}
 ---
 
 # Towards Being a Man
