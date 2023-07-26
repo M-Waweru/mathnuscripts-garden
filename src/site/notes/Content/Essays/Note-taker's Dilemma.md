@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/note-taker-s-dilemma/"}
+{"dg-publish":true,"permalink":"/content/essays/note-taker-s-dilemma/","noteIcon":"2"}
 ---
 
 # Note-taker's Dilemma
