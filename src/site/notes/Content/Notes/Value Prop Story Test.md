@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/value-prop-story-test/"}
+{"dg-publish":true,"permalink":"/content/notes/value-prop-story-test/","noteIcon":"2"}
 ---
 
 # Value Prop Story Test
