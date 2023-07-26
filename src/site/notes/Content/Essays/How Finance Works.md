@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/how-finance-works/"}
+{"dg-publish":true,"permalink":"/content/essays/how-finance-works/","noteIcon":"2"}
 ---
 
 # How Finance Works
