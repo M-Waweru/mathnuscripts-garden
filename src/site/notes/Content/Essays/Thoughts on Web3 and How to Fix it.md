@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/thoughts-on-web3-and-how-to-fix-it/"}
+{"dg-publish":true,"permalink":"/content/essays/thoughts-on-web3-and-how-to-fix-it/","noteIcon":"2"}
 ---
 
 # Thoughts on Web3 and How to Fix it
