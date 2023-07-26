@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/how-norway-benefitted-from-its-oil/"}
+{"dg-publish":true,"permalink":"/content/notes/how-norway-benefitted-from-its-oil/","noteIcon":"2"}
 ---
 
 # How Normary Benefitted from its Oil
