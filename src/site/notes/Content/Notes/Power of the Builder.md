@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/power-of-the-builder/"}
+{"dg-publish":true,"permalink":"/content/notes/power-of-the-builder/","noteIcon":"2"}
 ---
 
 # The Power of the Builder
