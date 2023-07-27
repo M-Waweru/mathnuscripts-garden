@@ -13,3 +13,7 @@ Literature, fictional writing and even non-fictional writing that seeks to be im
 My solution would be to combine literature with modern technology. The likes of anime, series, movies and documentaries have shown that people are willing to watch some form of long content. Although shallow compared to literature, this is a start to immense people in the world of one's literature and define how their literature will be interpreted and consumed by their audience. Using the very technologies above such as the internet, smartphones, social media and AI, we can come up with content around literature that leaves a lasting impact on the reader. Imagine a stream of words on a dark screen, that run with music in the background with a certain tempo. When it is a calm scene, it moves slowly with a nice tone of a voice to narrate. When it is an intense scene, the words move fast and more chaotically on the screen. It can even have blurred scenes to make it more intense. To make it better, it can be generated solely by an AI that goes through the content of the open sources books like Moby Dick, All Things Fall Apart and so on.
 
 That's a huge dream that combines software, writing, philosophy and storytelling. The only thing that's left is the rest of my interests like freedom, motorcycles, women and so on.
+
+---
+
+It has also be possible to go through an animated and customised story of a book based on a certain visual style that you preferred and the algorithm has seen that you like. [[Fleeting Notes/Listen to the Algorithm\|Listen to the Algorithm]]
