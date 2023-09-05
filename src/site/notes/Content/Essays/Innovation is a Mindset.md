@@ -4,6 +4,8 @@
 
 # Innovation is a Mindset
 
+
+
 Silicon Valley is not a place, it is a state of mind. These are the words of Meg Whitman as she spoke at a panel when we launched the Launchpad Innovation Campus, here in Nairobi. For those who know Silicon Valley, we are amazed by the legendary technology companies that are born there, the amount of wealth that is created overnight and the power and leverage that those companies hold over world affairs. 
 
 Every city and country in the 21st century wants to build a city like San Francisco and an area like the Silicon Valley is the epitome of progress and innovation. However, what shocks people is that it is not the most advanced city in the world, neither the best run, nor the most beautiful. It is not that the water is full of innovation-boosting nutrients or the sun shines brighter there. Silicon Valley is a product of the human capital that lives there and the shared beliefs that they hold about the world.
