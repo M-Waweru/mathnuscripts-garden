@@ -4,7 +4,7 @@
 
 # Frameworks to Know as a Product Developer
 
-As a product developer, your work is to build products (It's a pretty obvious deduction). Therefore, it would be great to carry around some frameworks that can help you think about how to build better products that your customers will love and want to use. There are as follows:
+As a product developer, your work is to build products (It's a pretty obvious deduction). Therefore, it would be great to carry around some frameworks that can help you think about how to build better products that your customers will love and want to use. They are as follows:
 
 ## 1. Idea State Machine
 
@@ -30,7 +30,7 @@ It is not about how much you have raised, the valuation you have or the number o
 Borrowed from Startup = Growth by Paul Graham. [Link](http://paulgraham.com/growth.html)
 Profits are good but startups are about scaling and capturing a large market as quickly as possible.
 
-Capture as much of the market because you increase your margins.
+Capture as much of the market before you increase your margins.
 
 This doesn't mean that you shouldn't have a business model. Have the business model and implement it from the beginning but growth is your top priority metric over profit.
 
@@ -71,9 +71,9 @@ Cannot remember where I got this
 Based on this [video](https://youtu.be/Id0dG1hsyQM?t=583)
 
 1. Financing - raising money
-2. Team - hiring
-3. Product - prototyping and building
+2. Team - hiring, managing, firing
+3. Product - prototyping, building, shipping
 4. Distribution - selling
 5. Collection - revenue
 
-You don't do this serially but in parallel.
+You don't do this serially but in parallel. All have to be done at the same time.
