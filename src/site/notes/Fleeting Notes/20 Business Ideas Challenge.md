@@ -10,7 +10,7 @@ Related to [[Content/Projects/Problems to Solve\|Problems to Solve]]
 2. A crowdsourced farming enterprise that allows busy people to invest in agriculture and reap the rewards of it.
 3. A knowledge-based community, podcast and publication that brings smart people together to have intellectually stimulating conversations and have a good time.
 4. A platform for digital gardeners to easily host their notes and share their favourites in a shared newsfeed for digital gardening notes.
-5. An AI bot that processed through your digital notes and gets a firm understanding of who you are and acts as your friend, biographer, psychologist, personal assistant and even auditor.
+5. An AI bot that processed through your digital notes and gets a firm understanding of who you are and acts as your friend, biographer, psychologist, personal assistant and even auditor. Rafiki.ai
 6. Search function using AI that parses through company data to unlock insights, produce documentation, onboard new team members and create insightful reports based on standard practices of accounting, OKRs .etc. Can be made public for some items and private of others. [[Fleeting Notes/Vector Databases and AI\|Vector Databases and AI]]. Chief Knowledge Officer
 7. A fun and engaging knowledge game for kids that teaches them about all topics that are important. Similar to the knowledge books I had as a kid but as an interactive game. From World Wars to animals to technology and so on.
 8. A house management app for renters and home owners in apartment building to getting information on paying bills like water and rent, discovering recommended businesses like mechanics, barbers and water providers and so on.
@@ -21,7 +21,7 @@ Related to [[Content/Projects/Problems to Solve\|Problems to Solve]]
 13. A workshop or company that works on developing the digital garden tools like Obsidian extensions that are high quality and high willingness to pay.
 14. A lifetime app that shows you the weeks you are going to live and how many weeks you have left and gives you quotes like Momento Mori, Stoic quotes and other great people quotes on life being too short and pursuing your goals, passions and dreams.
 15. A hiking management software that allows guides to create websites, manage payments from clients, plan trips and itinerary and communicate effectively with clients.
-16. A Tea shop that is centered around drinking a cup of tea as you discuss great ideas. Members only meeting place. Prioritises conversations and tea over being closed off with a clique.
+16. A Tea shop that is centered around drinking a cup of tea as you discuss great ideas. Members only meeting place. Prioritises conversations and tea over being closed off with a clique. It can also be about modernising tea production, branding and value addition in Kenya.
 17. An automated cocktail and alcohol dispenser that makes the cost of cocktails low, the speed of production faster and the taste consistent and better.
 18. Disrupting restaurant and high-end ordering, payments and tipping using QR codes, notification links to make things smoother for clients at restaurants
 19. A WiFi router that allows anyone to connect to the internet as long as they have paid a subscription. Use WiFi anywhere, anytime. Partnering with ISPs, 
