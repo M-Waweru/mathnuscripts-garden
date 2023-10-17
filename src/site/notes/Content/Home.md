@@ -6,6 +6,7 @@
 
 Welcome to the Mathnuscripts, the tip of the iceberg of the Digital Mind project.
 
+![DALL·E 2022-10-06 21.13.16 - a face of a man made of symbols in mathematics, physics, code and genetics.png|500](/img/user/Media/DALL%C2%B7E%202022-10-06%2021.13.16%20-%20a%20face%20of%20a%20man%20made%20of%20symbols%20in%20mathematics,%20physics,%20code%20and%20genetics.png)
 ## Introduction
 
 This is a long-term project to collect the ideas, thoughts and knowledge that I have and nurture them into a comprehensive, navigable and understandable body of knowledge that can be browsed, analysed and presented to others and myself.
