@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/http/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/http/","noteIcon":""}
 ---
 
 # Short Notes on HTTP
