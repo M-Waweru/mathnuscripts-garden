@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/projects/shukran/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/projects/shukran/","noteIcon":""}
 ---
 
 # Shukran
