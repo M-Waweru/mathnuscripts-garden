@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/projects/impossible-labs/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/projects/impossible-labs/","noteIcon":""}
 ---
 
 # Impossible Labs
