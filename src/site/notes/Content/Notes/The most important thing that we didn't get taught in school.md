@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/the-most-important-thing-that-we-didn-t-get-taught-in-school/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/the-most-important-thing-that-we-didn-t-get-taught-in-school/","noteIcon":""}
 ---
 
 # The Most Important Thing to Learn in School
