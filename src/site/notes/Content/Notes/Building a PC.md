@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/building-a-pc/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/building-a-pc/","noteIcon":""}
 ---
 
 # PC-Building
