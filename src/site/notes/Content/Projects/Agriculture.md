@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/projects/agriculture/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/projects/agriculture/","noteIcon":""}
 ---
 
 # Agriculture
