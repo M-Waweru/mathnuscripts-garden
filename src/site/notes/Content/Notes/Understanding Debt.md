@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/understanding-debt/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/understanding-debt/","noteIcon":""}
 ---
 
 # Understanding Debt
