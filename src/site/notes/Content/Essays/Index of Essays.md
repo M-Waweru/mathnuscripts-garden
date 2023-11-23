@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/index-of-essays/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/essays/index-of-essays/","noteIcon":""}
 ---
 
 # Index of Essays
@@ -7,28 +7,29 @@
 Essays are evolving products of my writing. They are a flowing stream of ideas that seek to get a point across, from [[Content/Essays/Why Software is Important\|Why Software is Important]] to [[Content/Essays/Towards Being a Man\|Towards Being a Man]]. Some are also posted on my blog at my official [site](https://mwaweru.com). Enjoy the ideas that may last for a long, long while (500 years is the goal).
 - [[Content/Essays/Acceralating Innovation for Good\|Acceralating Innovation for Good]]
 - [[Content/Essays/AI and Free Information\|AI and Free Information]]
-- [[Content/Essays/Antidote to Crime\|Antidote to Crime]]
-- [[Content/Essays/Being a Tinkerer\|Being a Tinkerer]]
+- [[Content/Essays/Extending Human Intelligence\|Extending Human Intelligence]]
 - [[Content/Essays/Gnosticism\|Gnosticism]]
 - [[Content/Essays/Go Ahead, Scroll your Life Away\|Go Ahead, Scroll your Life Away]]
+- [[Content/Essays/Being a Tinkerer\|Being a Tinkerer]]
 - [[Content/Essays/How I Got Started with Blockchain\|How I Got Started with Blockchain]]
-- [[Content/Essays/In Search of Competence\|In Search of Competence]]
-- [[Content/Essays/Index of Essays\|Index of Essays]]
-- [[Content/Essays/Innovation is a Mindset\|Innovation is a Mindset]]
 - [[Content/Essays/How Finance Works\|How Finance Works]]
+- [[Content/Essays/In Search of Competence\|In Search of Competence]]
+- [[Content/Essays/Innovation is a Mindset\|Innovation is a Mindset]]
+- [[Content/Essays/Index of Essays\|Index of Essays]]
 - [[Content/Essays/Living in a Ghost Town\|Living in a Ghost Town]]
-- [[Content/Essays/Incurable Itch\|Incurable Itch]]
 - [[Content/Essays/Living in the Software Age\|Living in the Software Age]]
 - [[Content/Essays/Local Capital Should Take Its Place\|Local Capital Should Take Its Place]]
 - [[Content/Essays/My Experience at the Enactus World Cup 2020 (Revised)\|My Experience at the Enactus World Cup 2020 (Revised)]]
 - [[Content/Essays/My Living Manuscript\|My Living Manuscript]]
+- [[Content/Essays/Antidote to Crime\|Antidote to Crime]]
 - [[Content/Essays/My Story at IAN so Far - 2023\|My Story at IAN so Far - 2023]]
-- [[Content/Essays/Knowledge, Innovation and Africa\|Knowledge, Innovation and Africa]]
-- [[Content/Essays/Online Books By New Age Thinkers\|Online Books By New Age Thinkers]]
+- [[Content/Essays/Note-taker's Dilemma\|Note-taker's Dilemma]]
+- [[Content/Essays/Incurable Itch\|Incurable Itch]]
 - [[Content/Essays/Produce a Lot of Shitty Work\|Produce a Lot of Shitty Work]]
+- [[Content/Essays/Online Books By New Age Thinkers\|Online Books By New Age Thinkers]]
 - [[Content/Essays/Product Development Frameworks\|Product Development Frameworks]]
-- [[Content/Essays/Rise of Artificial Intelligence\|Rise of Artificial Intelligence]]
 - [[Content/Essays/Software Development for All\|Software Development for All]]
+- [[Content/Essays/Rise of Artificial Intelligence\|Rise of Artificial Intelligence]]
 - [[Content/Essays/The Future of Text\|The Future of Text]]
 - [[Content/Essays/The Vision of Shukran\|The Vision of Shukran]]
 - [[Content/Essays/There is Nothing Better to Do\|There is Nothing Better to Do]]
@@ -39,9 +40,9 @@ Essays are evolving products of my writing. They are a flowing stream of ideas t
 - [[Content/Essays/Why Software is Important\|Why Software is Important]]
 - [[Content/Essays/Winning makes things easier\|Winning makes things easier]]
 - [[Content/Essays/Working should be fun\|Working should be fun]]
-- [[Content/Essays/My Recap of 1 Year at IAN\|My Recap of 1 Year at IAN]]
 - [[Content/Essays/The Appeal of Personal Blogs\|The Appeal of Personal Blogs]]
-- [[Content/Essays/Note-taker's Dilemma\|Note-taker's Dilemma]]
+- [[Content/Essays/My Recap of 1 Year at IAN\|My Recap of 1 Year at IAN]]
+- [[Content/Essays/Knowledge, Innovation and Africa\|Knowledge, Innovation and Africa]]
 
 { .block-language-dataview}
 
