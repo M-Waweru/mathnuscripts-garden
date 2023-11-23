@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/projects/problems-to-solve/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/projects/problems-to-solve/","noteIcon":""}
 ---
 
 # Problems to Solve
@@ -134,6 +134,10 @@
 52. An AI chatbot and research assistant that goes through Kenyan and African datasets and answers questions based on them. I can use OpenChat.ai to upload and go through them and give it out as a service.
 
 53. A place where academia and entrepreneurs can come together and share great ideas about how to take advantage research in industry and business. It can be a site that makes research papers relevant to business people and entrepreneurs.
+
+54. A grant writing tool based on AI that helps you use previous grant proposals and applications to write new ones and increase speeds and eliminate writer's block.
+{ #0c9686}
+
 
 
 
