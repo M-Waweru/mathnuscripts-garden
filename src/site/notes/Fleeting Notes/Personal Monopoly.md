@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/personal-monopoly/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/fleeting-notes/personal-monopoly/","noteIcon":""}
 ---
 
 There is a concept by [[David Perell\|David Perell]] in this [video](https://www.youtube.com/watch?v=08S67KEb6hQ)
