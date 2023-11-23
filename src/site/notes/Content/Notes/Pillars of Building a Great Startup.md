@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/pillars-of-building-a-great-startup/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/pillars-of-building-a-great-startup/","noteIcon":""}
 ---
 
 # Pillars of Building a Great Startup
