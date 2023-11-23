@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/calculus-metaphor-for-manhood/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/calculus-metaphor-for-manhood/","noteIcon":""}
 ---
 
 # Calculus metaphor for Manhood
