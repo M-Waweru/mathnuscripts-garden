@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/being-a-tinkerer/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/essays/being-a-tinkerer/","noteIcon":""}
 ---
 
 # Being a Tinkerer
