@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-future/companies-building-the-future/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/the-future/companies-building-the-future/","noteIcon":""}
 ---
 
 # Companies Building the Future
