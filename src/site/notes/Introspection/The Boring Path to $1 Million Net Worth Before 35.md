@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introspection/the-boring-path-to-1-million-net-worth-before-35/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/introspection/the-boring-path-to-1-million-net-worth-before-35/","noteIcon":""}
 ---
 
 # The Boring Path to $1 Million Net Worth Before 35
