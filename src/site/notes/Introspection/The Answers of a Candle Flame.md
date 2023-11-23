@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introspection/the-answers-of-a-candle-flame/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/introspection/the-answers-of-a-candle-flame/","noteIcon":""}
 ---
 
 # The Answers of a Candle Flame
