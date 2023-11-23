@@ -4,7 +4,7 @@
 
 # Extending Human Intelligence
 
-![[Flooding Valley for Human Competence.webp]]
+![Hans-Moravecs-illustration-of-the-rising-tide-of-the-AI-capacity-From-Max-Tegmark.png](/img/user/Media/Hans-Moravecs-illustration-of-the-rising-tide-of-the-AI-capacity-From-Max-Tegmark.png)
 
 I will start with a paragraph from one of my favourite books on AI, [Life 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598), where it quotes the following:
 
