@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/2-years-after-university/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/fleeting-notes/2-years-after-university/","noteIcon":""}
 ---
 
 # 2 Years After University
