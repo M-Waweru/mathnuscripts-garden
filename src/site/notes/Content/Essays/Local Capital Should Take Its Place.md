@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/local-capital-should-take-its-place/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/essays/local-capital-should-take-its-place/","noteIcon":""}
 ---
 
 # Local Capital Should Take Its Place
