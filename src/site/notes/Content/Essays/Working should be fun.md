@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/working-should-be-fun/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/essays/working-should-be-fun/","noteIcon":""}
 ---
 
 # Work should be fun
