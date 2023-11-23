@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/4-frontiers-in-software-in-2023/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/fleeting-notes/4-frontiers-in-software-in-2023/","noteIcon":""}
 ---
 
 # 4 Frontiers in Software in 2023
