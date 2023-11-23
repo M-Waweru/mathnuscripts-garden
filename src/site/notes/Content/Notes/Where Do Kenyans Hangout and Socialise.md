@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/where-do-kenyans-hangout-and-socialise/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/where-do-kenyans-hangout-and-socialise/","noteIcon":""}
 ---
 
 # Where Do Kenyans Hangout and Socialise
