@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/knowledge-innovation-and-africa/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/essays/knowledge-innovation-and-africa/","noteIcon":""}
 ---
 
 # Knowledge, Information and Africa
