@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/projects/20-business-ideas-challenge/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/projects/20-business-ideas-challenge/","noteIcon":""}
 ---
 
 # 20 Business Ideas Challenge
