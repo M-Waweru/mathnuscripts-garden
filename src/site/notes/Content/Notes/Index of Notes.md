@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/index-of-notes/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/index-of-notes/","noteIcon":""}
 ---
 
 # Index of Notes
@@ -15,28 +15,29 @@ Notes are small and discrete ideas that are extracted from longer journal entrie
 - [[Content/Notes/Computers as Molders of the Universe\|Computers as Molders of the Universe]]
 - [[Content/Notes/Computing a theory for everything\|Computing a theory for everything]]
 - [[Content/Notes/Developers building Startups\|Developers building Startups]]
+- [[Content/Notes/Finding Passion in a Passionless Age\|Finding Passion in a Passionless Age]]
+- [[Content/Notes/Future of Personal Computing\|Future of Personal Computing]]
 - [[Content/Notes/Green Hydrogen\|Green Hydrogen]]
 - [[Content/Notes/How Norway Benefitted from its Oil\|How Norway Benefitted from its Oil]]
-- [[Content/Notes/HTTP\|HTTP]]
 - [[Content/Notes/Human Stupidity\|Human Stupidity]]
+- [[Content/Notes/HTTP\|HTTP]]
 - [[Content/Notes/Index of Notes\|Index of Notes]]
 - [[Content/Notes/Isaac Asimov on Ideas\|Isaac Asimov on Ideas]]
-- [[Content/Notes/Long Live Literature\|Long Live Literature]]
-- [[Content/Notes/Long-term View on People\|Long-term View on People]]
 - [[Content/Notes/Making Mobile Phones have Utility\|Making Mobile Phones have Utility]]
 - [[Content/Notes/Mosquito Problem\|Mosquito Problem]]
 - [[Content/Notes/Naval's Important Skills to Have\|Naval's Important Skills to Have]]
 - [[Content/Notes/Operations-as-a-Service\|Operations-as-a-Service]]
-- [[Content/Notes/Organisations are the new communities\|Organisations are the new communities]]
+- [[Content/Notes/Long Live Literature\|Long Live Literature]]
 - [[Content/Notes/Permissionless\|Permissionless]]
-- [[Content/Notes/Pillars of Building a Great Startup\|Pillars of Building a Great Startup]]
+- [[Content/Notes/Long-term View on People\|Long-term View on People]]
 - [[Content/Notes/Polymath\|Polymath]]
 - [[Content/Notes/Power of the Builder\|Power of the Builder]]
+- [[Content/Notes/Pillars of Building a Great Startup\|Pillars of Building a Great Startup]]
 - [[Content/Notes/Save Now and Buy Later\|Save Now and Buy Later]]
 - [[Content/Notes/Space Exploration is About Perspective\|Space Exploration is About Perspective]]
 - [[Content/Notes/The 5Ms by Amerix\|The 5Ms by Amerix]]
-- [[Content/Notes/Discussion Paper on Central Bank Digital Currency\|Discussion Paper on Central Bank Digital Currency]]
 - [[Content/Notes/The Changing World Order\|The Changing World Order]]
+- [[Content/Notes/Rough Bullet Points on Hiring at a Startup\|Rough Bullet Points on Hiring at a Startup]]
 - [[Content/Notes/The One Big Idea\|The One Big Idea]]
 - [[Content/Notes/The Use of PKM\|The Use of PKM]]
 - [[Content/Notes/Things I am excited about in 2023\|Things I am excited about in 2023]]
@@ -46,10 +47,10 @@ Notes are small and discrete ideas that are extracted from longer journal entrie
 - [[Content/Notes/Urge to write\|Urge to write]]
 - [[Content/Notes/Value Prop Story Test\|Value Prop Story Test]]
 - [[Content/Notes/We Really Don't Know How to Compute\|We Really Don't Know How to Compute]]
-- [[Content/Notes/Finding Passion in a Passionless Age\|Finding Passion in a Passionless Age]]
+- [[Content/Notes/Discussion Paper on Central Bank Digital Currency\|Discussion Paper on Central Bank Digital Currency]]
 - [[Content/Notes/Zones of Work\|Zones of Work]]
-- [[Content/Notes/Future of Personal Computing\|Future of Personal Computing]]
 - [[Content/Notes/The most important thing that we didn't get taught in school\|The most important thing that we didn't get taught in school]]
 - [[Content/Notes/Where Do Kenyans Hangout and Socialise\|Where Do Kenyans Hangout and Socialise]]
+- [[Content/Notes/Organisations are the new communities\|Organisations are the new communities]]
 
 { .block-language-dataview}
