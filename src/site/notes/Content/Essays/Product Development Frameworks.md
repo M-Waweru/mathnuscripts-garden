@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/product-development-frameworks/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/essays/product-development-frameworks/","noteIcon":""}
 ---
 
 # Frameworks to Know as a Product Developer
