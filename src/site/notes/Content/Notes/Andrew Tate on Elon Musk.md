@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/andrew-tate-on-elon-musk/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/andrew-tate-on-elon-musk/","noteIcon":""}
 ---
 
 # Andrew Tate on Elon Musk
