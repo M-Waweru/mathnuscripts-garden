@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/my-recap-of-1-year-at-ian/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/essays/my-recap-of-1-year-at-ian/","noteIcon":""}
 ---
 
 # One Year of Changing the African Narrative
