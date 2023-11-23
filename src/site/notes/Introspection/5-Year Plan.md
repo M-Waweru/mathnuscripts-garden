@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introspection/5-year-plan/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/introspection/5-year-plan/","noteIcon":""}
 ---
 
 # 5 Year Plan
