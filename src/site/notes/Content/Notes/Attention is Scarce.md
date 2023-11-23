@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/attention-is-scarce/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/attention-is-scarce/","noteIcon":""}
 ---
 
 # Attention is Scarce
