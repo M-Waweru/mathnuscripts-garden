@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/personal-blogs/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/fleeting-notes/personal-blogs/","noteIcon":""}
 ---
 
 # Great Personal Blogs
