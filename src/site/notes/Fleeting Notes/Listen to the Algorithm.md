@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/listen-to-the-algorithm/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/fleeting-notes/listen-to-the-algorithm/","noteIcon":""}
 ---
 
 # Listen to the Algorithm
