@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/software-development-for-all/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/essays/software-development-for-all/","noteIcon":""}
 ---
 
 # Software Development for All
