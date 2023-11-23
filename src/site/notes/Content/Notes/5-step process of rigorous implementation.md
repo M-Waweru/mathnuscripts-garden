@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/5-step-process-of-rigorous-implementation/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/5-step-process-of-rigorous-implementation/","noteIcon":""}
 ---
 
 # 5-step process of rigorous implementation
