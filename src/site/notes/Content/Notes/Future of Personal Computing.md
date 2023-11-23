@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/future-of-personal-computing/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/future-of-personal-computing/","noteIcon":""}
 ---
 
 # The Future of Personal Computing
