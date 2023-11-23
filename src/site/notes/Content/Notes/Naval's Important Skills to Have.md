@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/naval-s-important-skills-to-have/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/naval-s-important-skills-to-have/","noteIcon":""}
 ---
 
 # Naval's Important Skills To Have
