@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/organisations-are-the-new-communities/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/organisations-are-the-new-communities/","noteIcon":""}
 ---
 
 # Organisations are the new communities
