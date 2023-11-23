@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/things-to-do-in-your-20s/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/things-to-do-in-your-20s/","noteIcon":""}
 ---
 
 # Things To Do in Your 20s
