@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/incurable-itch/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/essays/incurable-itch/","noteIcon":""}
 ---
 
 # Incurable Itch
