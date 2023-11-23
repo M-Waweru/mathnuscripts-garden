@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/the-use-of-pkm/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/the-use-of-pkm/","noteIcon":""}
 ---
 
 # The Use of PKM
