@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/zones-of-work/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/zones-of-work/","noteIcon":""}
 ---
 
 # Zones of Work
