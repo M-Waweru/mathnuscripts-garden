@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/projects/africa-knowledge-project/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/projects/africa-knowledge-project/","noteIcon":""}
 ---
 
 # Africa Knowledge Project
