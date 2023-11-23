@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/my-story-at-ian-so-far-2023/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/essays/my-story-at-ian-so-far-2023/","noteIcon":""}
 ---
 
 # My Story at IAN so Far in 2023
