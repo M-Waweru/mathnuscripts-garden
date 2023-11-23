@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/green-hydrogen/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/green-hydrogen/","noteIcon":""}
 ---
 
 # Green Hydrogen
