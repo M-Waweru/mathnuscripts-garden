@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introspection/inspiring-plan-for-life/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/introspection/inspiring-plan-for-life/","noteIcon":""}
 ---
 
 # Inspiring Plan for Life
