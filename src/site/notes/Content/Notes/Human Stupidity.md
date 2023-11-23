@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/human-stupidity/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/content/notes/human-stupidity/","noteIcon":""}
 ---
 
 # Human Stupidity by Robert Greene
