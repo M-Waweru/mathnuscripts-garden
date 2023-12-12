@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/a-study-of-decadence/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/a-study-of-decadence/","noteIcon":"2"}
 ---
 
 # A Study of Decadence
