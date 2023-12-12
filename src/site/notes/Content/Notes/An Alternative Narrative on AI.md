@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/an-alternative-narrative-on-ai/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/an-alternative-narrative-on-ai/","noteIcon":"2"}
 ---
 
 With the rise of AI with LLM models like ChatGPT and Llama, a lot of people are starting to have somewhat serious debates about the safety of AI tools and how we should develop them moving forward.
