@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/the-human-symphony/","noteIcon":""}
+{"dg-publish":true,"permalink":"/fleeting-notes/the-human-symphony/","noteIcon":"2"}
 ---
 
 # The Human Symphony
