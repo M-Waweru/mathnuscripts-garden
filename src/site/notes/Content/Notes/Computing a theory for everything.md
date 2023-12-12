@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/computing-a-theory-for-everything/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/computing-a-theory-for-everything/","noteIcon":"2"}
 ---
 
 # Computing a theory for Everything
