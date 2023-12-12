@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/long-live-literature/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/long-live-literature/","noteIcon":"2"}
 ---
 
 # Long Live Literature
