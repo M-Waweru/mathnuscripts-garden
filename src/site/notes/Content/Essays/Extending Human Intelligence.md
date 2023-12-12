@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/extending-human-intelligence/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/essays/extending-human-intelligence/","noteIcon":"2"}
 ---
 
 # Extending Human Intelligence
