@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/we-really-don-t-know-how-to-compute/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/we-really-don-t-know-how-to-compute/","noteIcon":"2"}
 ---
 
 # We Really Don't Know How to Compute
