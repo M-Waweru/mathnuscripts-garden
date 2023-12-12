@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/isaac-asimov-on-ideas/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/isaac-asimov-on-ideas/","noteIcon":"2"}
 ---
 
 # Isaac Asimov on Ideas
