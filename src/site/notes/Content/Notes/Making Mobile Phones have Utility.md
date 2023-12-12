@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/making-mobile-phones-have-utility/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/making-mobile-phones-have-utility/","noteIcon":"2"}
 ---
 
 # Making Mobile Phones Have Utility
