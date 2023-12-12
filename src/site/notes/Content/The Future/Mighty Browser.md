@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-future/mighty-browser/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/the-future/mighty-browser/","noteIcon":"2"}
 ---
 
 # Mighty Browser
