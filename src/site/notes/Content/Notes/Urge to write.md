@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/urge-to-write/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/urge-to-write/","noteIcon":"2"}
 ---
 
 # Urge to Write
