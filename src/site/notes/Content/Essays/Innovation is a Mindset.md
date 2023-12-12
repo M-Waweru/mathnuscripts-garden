@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/innovation-is-a-mindset/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/essays/innovation-is-a-mindset/","noteIcon":"2"}
 ---
 
 # Innovation is a Mindset
