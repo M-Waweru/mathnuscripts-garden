@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/computers-as-molders-of-the-universe/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/computers-as-molders-of-the-universe/","noteIcon":"2"}
 ---
 
 # Computers as Molders of the Universe
