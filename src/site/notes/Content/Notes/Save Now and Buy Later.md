@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/save-now-and-buy-later/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/save-now-and-buy-later/","noteIcon":"2"}
 ---
 
 # Save Now and Buy Later
