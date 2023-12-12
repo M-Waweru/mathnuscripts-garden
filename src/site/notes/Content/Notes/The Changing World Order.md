@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/the-changing-world-order/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/the-changing-world-order/","noteIcon":"2"}
 ---
 
 # The Changing World Order by Ray Dalio
