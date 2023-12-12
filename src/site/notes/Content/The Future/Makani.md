@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-future/makani/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/the-future/makani/","noteIcon":"2"}
 ---
 
 # Makani
