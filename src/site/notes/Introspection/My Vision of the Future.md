@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introspection/my-vision-of-the-future/","noteIcon":""}
+{"dg-publish":true,"permalink":"/introspection/my-vision-of-the-future/","noteIcon":"2"}
 ---
 
 # My Vision of the Future
