@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/publishing-my-second-brain/","noteIcon":""}
+{"dg-publish":true,"permalink":"/fleeting-notes/publishing-my-second-brain/","noteIcon":"2"}
 ---
 
 # Publishing My Second Brain
