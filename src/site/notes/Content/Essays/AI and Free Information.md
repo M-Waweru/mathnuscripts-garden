@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/ai-and-free-information/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/essays/ai-and-free-information/","noteIcon":"2"}
 ---
 
 # AI and Free Information
