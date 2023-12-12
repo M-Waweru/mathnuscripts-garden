@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/long-term-view-on-people/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/long-term-view-on-people/","noteIcon":"2"}
 ---
 
 # Long-term View on People
