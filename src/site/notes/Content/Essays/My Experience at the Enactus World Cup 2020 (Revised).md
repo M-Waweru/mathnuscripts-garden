@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/my-experience-at-the-enactus-world-cup-2020-revised/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/essays/my-experience-at-the-enactus-world-cup-2020-revised/","noteIcon":"2"}
 ---
 
 # My Experience at the Enactus World Cup 2020 (Revised)
