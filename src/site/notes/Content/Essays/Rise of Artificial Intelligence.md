@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/rise-of-artificial-intelligence/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/essays/rise-of-artificial-intelligence/","noteIcon":"2"}
 ---
 
 # Rise of Artificial Intelligence
