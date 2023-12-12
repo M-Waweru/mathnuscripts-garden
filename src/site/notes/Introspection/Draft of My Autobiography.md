@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introspection/draft-of-my-autobiography/","noteIcon":""}
+{"dg-publish":true,"permalink":"/introspection/draft-of-my-autobiography/","noteIcon":"2"}
 ---
 
 # Tables of Contents
