@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/projects/hacker-studio/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/projects/hacker-studio/","noteIcon":"2"}
 ---
 
 # Hacker Studio
