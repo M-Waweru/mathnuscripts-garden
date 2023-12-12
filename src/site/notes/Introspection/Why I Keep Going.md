@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introspection/why-i-keep-going/","noteIcon":""}
+{"dg-publish":true,"permalink":"/introspection/why-i-keep-going/","noteIcon":"2"}
 ---
 
 # Why I Keep Going
