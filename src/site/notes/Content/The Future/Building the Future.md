@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-future/building-the-future/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/the-future/building-the-future/","noteIcon":"2"}
 ---
 
 # Building the Future
