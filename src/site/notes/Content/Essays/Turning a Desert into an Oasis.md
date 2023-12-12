@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/turning-a-desert-into-an-oasis/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/essays/turning-a-desert-into-an-oasis/","noteIcon":"2"}
 ---
 
 # Turning a Desert into an Oasis
