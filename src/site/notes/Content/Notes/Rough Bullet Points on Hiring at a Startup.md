@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/rough-bullet-points-on-hiring-at-a-startup/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/rough-bullet-points-on-hiring-at-a-startup/","noteIcon":"2"}
 ---
 
 # Rough Bullet Points on Hiring at a Startup
