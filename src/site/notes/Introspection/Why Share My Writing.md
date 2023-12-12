@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introspection/why-share-my-writing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/introspection/why-share-my-writing/","noteIcon":"2"}
 ---
 
 # Why Share My Writing
