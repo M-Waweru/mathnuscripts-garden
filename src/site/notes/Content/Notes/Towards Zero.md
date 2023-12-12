@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/towards-zero/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/towards-zero/","noteIcon":"2"}
 ---
 
 # Towards Zero
