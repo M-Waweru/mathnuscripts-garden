@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/things-i-am-excited-about-in-2023/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/things-i-am-excited-about-in-2023/","noteIcon":"2"}
 ---
 
 # Things I am excited about in 2023
