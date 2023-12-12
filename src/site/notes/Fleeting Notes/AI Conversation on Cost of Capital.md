@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/ai-conversation-on-cost-of-capital/","noteIcon":""}
+{"dg-publish":true,"permalink":"/fleeting-notes/ai-conversation-on-cost-of-capital/","noteIcon":"2"}
 ---
 
 # AI Conversation on Cost of Capital
