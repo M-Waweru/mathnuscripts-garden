@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/polymath/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/polymath/","noteIcon":"2"}
 ---
 
 # Polymath
