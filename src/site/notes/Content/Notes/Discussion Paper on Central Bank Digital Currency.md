@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/discussion-paper-on-central-bank-digital-currency/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/discussion-paper-on-central-bank-digital-currency/","noteIcon":"2"}
 ---
 
 # Discussion Paper on CBDC in Kenya
