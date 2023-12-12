@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/acceralating-innovation-for-good/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/essays/acceralating-innovation-for-good/","noteIcon":"2"}
 ---
 
 # Acceralating Innovation for Good
