@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/the-one-big-idea/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/the-one-big-idea/","noteIcon":"2"}
 ---
 
 # The One Big Idea
