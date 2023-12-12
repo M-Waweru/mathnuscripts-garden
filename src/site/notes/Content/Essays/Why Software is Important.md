@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/why-software-is-important/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/essays/why-software-is-important/","noteIcon":"2"}
 ---
 
 # Why Software is Important
