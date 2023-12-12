@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/inspiring-pkm-systems/","noteIcon":""}
+{"dg-publish":true,"permalink":"/fleeting-notes/inspiring-pkm-systems/","noteIcon":"2"}
 ---
 
 # Inspiring PKM Systems
