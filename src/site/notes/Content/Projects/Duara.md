@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/projects/duara/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/projects/duara/","noteIcon":"2"}
 ---
 
 # Duara
