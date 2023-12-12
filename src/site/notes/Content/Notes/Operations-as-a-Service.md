@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/operations-as-a-service/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/notes/operations-as-a-service/","noteIcon":"2"}
 ---
 
 # Operations-as-a-Service
