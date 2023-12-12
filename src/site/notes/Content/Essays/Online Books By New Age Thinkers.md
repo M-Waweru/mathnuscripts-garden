@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/essays/online-books-by-new-age-thinkers/","noteIcon":""}
+{"dg-publish":true,"permalink":"/content/essays/online-books-by-new-age-thinkers/","noteIcon":"2"}
 ---
 
 # Online Books By New Age Thinkers
