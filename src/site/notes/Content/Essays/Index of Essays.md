@@ -44,6 +44,7 @@ Essays are evolving products of my writing. They are a flowing stream of ideas t
 - [[Content/Essays/Winning makes things easier\|Winning makes things easier]]
 - [[Content/Essays/Working should be fun\|Working should be fun]]
 - [[Content/Essays/Towards Being a Man\|Towards Being a Man]]
+- [[Content/Essays/The Management of Things, People and Money\|The Management of Things, People and Money]]
 
 { .block-language-dataview}
 
