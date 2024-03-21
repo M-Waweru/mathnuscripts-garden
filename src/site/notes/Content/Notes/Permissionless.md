@@ -14,7 +14,7 @@ Communities are:
 1. A hacker and innovator community of people looking to build software for the African market. Refer to [[Content/Projects/Hacker Studio\|Hacker Studio]] and [[Visionary Workshop\|Visionary Workshop]]
 2. A intellectual community of smart people who want to have niche conversations on philosophy, tech and son. Refer to [[Fleeting Notes/Cerebrations\|Cerebrations]]. Also similar to [[Visionary Workshop\|Visionary Workshop]]
 3. A community of content creators looking to create intellectual content in Africa. Refer to [[Intellectual Content in Africa\|Intellectual Content in Africa]]
-4. A community of urban dwellers looking to understand and improve rural areas by living and work there to improve our country. Refer to [[Digital Village\|Digital Village]] or [[Startup City\|Startup City]]
+4. A community of urban dwellers looking to understand and improve rural areas by living and work there to improve our country. Refer to [[Digital Village\|Digital Village]] or [[Fleeting Notes/Startup City\|Startup City]]
 5. A community of Africans looking to understand and document their cultures and preserve them for the next generation. Refer to [[Digital Museum\|Digital Museum]]
 
 Reference: [Permissionless Economy article](https://entrepreneurshandbook.co/the-permissionless-economy-is-the-greatest-opportunity-for-making-money-online-5545c9537c66)
