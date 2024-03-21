@@ -65,7 +65,7 @@
 
 19. On [[Fleeting Notes/Managing My Digital Environment\|Managing My Digital Environment]], build a system that can aggregate the data and activity about a person's digital life and give reports on how to improve on it. This is the [[Digital Life Dashboard\|Digital Life Dashboard]]
 
-20. A [[Fleeting Notes/Life Dashboard\|Life Dashboard]] to keep track of goals and visions. It can aggregate health data, finances, digital activity and so on.
+20. A [[Projects/Life Dashboard\|Life Dashboard]] to keep track of goals and visions. It can aggregate health data, finances, digital activity and so on.
 
 21. [[Permissioned Digital Gardens\|Permissioned Digital Gardens]] - Permissioned access to hosted digital gardens. Allow for sharing specific notes and ability for collaboration.
 
@@ -111,11 +111,11 @@
 
 41. Delivering pre-cooked food that can last a week for a subscription. Allow people to order a week-worthy of pre-cooked food that they can store in their fridges and create slowly. This saves them time, they can eat healthy meals and they can do it more affordably than getting takeout. [[Fleeting Notes/Delivering Weekly Precooked Food\|Delivering Weekly Precooked Food]]
 
-42. A [[Fleeting Notes/Foodie App\|Foodie App]] for people who love food and love going out. View the trendy restaurants, get assistance on what restaurant to go to, log the restaurant experience and share with friends. Get recommendations based on experiences and share with the world you foodie level. Invite your friends for night-outs, dinning and eat-outs.
+42. A [[Projects/Foodie App\|Foodie App]] for people who love food and love going out. View the trendy restaurants, get assistance on what restaurant to go to, log the restaurant experience and share with friends. Get recommendations based on experiences and share with the world you foodie level. Invite your friends for night-outs, dinning and eat-outs.
 
 43. [[Fleeting Notes/Debt-financing for Farming\|Debt-financing for Farming]] by using the VC model. Like startups, you can invest in farms and help them build their capacity to scale. In addition, you can allow retails investors like middle-class urban professionals to invest their money and crowdfund to invest in farmers. 
 
-44. [[Fleeting Notes/Laptop financing\|Laptop financing]] service that allows people to get the laptop they want from a manufacturer of their choosing, at an affordable price and with financial support to either save up for it or get a loan to buy it.
+44. [[Projects/Laptop financing\|Laptop financing]] service that allows people to get the laptop they want from a manufacturer of their choosing, at an affordable price and with financial support to either save up for it or get a loan to buy it.
 
 45. [[Content/Notes/Save Now and Buy Later\|Save Now and Buy Later]]. Instead of getting a loan to purchase a nice to have, you can save for it and buy it when the time comes. The goal to reduce the amount of debt that people incur when buying nice-to-haves and save for them. Things like laptops, motorcycles, holidays and the latest fashion don't need loans to buy. 
 
