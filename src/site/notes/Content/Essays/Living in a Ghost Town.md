@@ -10,7 +10,7 @@ I have watched other channels that portray the same concept of getting a piece o
 
 I have noticed places like those in Kenya. One town was called Endau, which is in Kitui County. We went there during the fuuneral of Aunty Tabitha's sister. It was quite far but it was great experience to see somewhere so remote, slow and desolute. It was really dry and the dust would attach to the sweat of your skin. Not to mention the heat. The area reminded me of Tsavo National Park. Generally, that area of Kitui, Makueni and Machakos are dry. I cannot remind my geography but it has something to do with the fact that it is a plateau and there are no major faultlines or volcanic activity to have mountains, rivers and other watch-catchment areas. Geography is interesting, especially Kenyan Geography. [[Kenya is Beautiful\|Kenya is Beautiful]].
 
-Anyway, I would like to build a [[Startup City\|Startup City]] or town for like-minded people to come together and build a great community. We can start from scratch and build out a new society. We can look into the following:
+Anyway, I would like to build a [[Fleeting Notes/Startup City\|Startup City]] or town for like-minded people to come together and build a great community. We can start from scratch and build out a new society. We can look into the following:
 1. Infrastructure
 	- Housing structures
 	- Power generation and transmission
