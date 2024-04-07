@@ -131,13 +131,19 @@
 
 51. An AI tool that turns a written essay into a series of slides or a video that is narrated and shows the relevant images, video clips and so on to go with it.
 
+{ #1d245e}
+
 52. An AI chatbot and research assistant that goes through Kenyan and African datasets and answers questions based on them. I can use OpenChat.ai to upload and go through them and give it out as a service.
+
+{ #75f403}
 
 53. A place where academia and entrepreneurs can come together and share great ideas about how to take advantage research in industry and business. It can be a site that makes research papers relevant to business people and entrepreneurs.
 
 54. A grant writing tool based on AI that helps you use previous grant proposals and applications to write new ones and increase speeds and eliminate writer's block.
 { #0c9686}
 
+55. A company that collects data from across Africa and allow people to pay and explore this data in a flexible and robust interface. Related to [[Content/Projects/Problems to Solve#^75f403\|Problems to Solve#^75f403]]
 
+56. A game or interactive product that turns the distractive capability of smartphones and the internet into productive and educational tool for children.
 
 
