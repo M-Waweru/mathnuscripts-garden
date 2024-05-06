@@ -14,7 +14,7 @@ This concept is based on what I want to do in life that will define me. If you l
 6. Bill Gates - Microsoft
 7. Sam Altman - OpenAI
 
-In all of this, they had specific skills in a certain domain like software development, startup building, physics, quantum mechanics and so on. They have a passion these domains and they gain the skills to be dangerous in them. From there, they make change in the world by organising people around their ideals, mission and purpose.
+In all of this, they had specific skills in a certain domain like software development, startup building, physics, quantum mechanics and so on. They have a passion in these domains and they gained the skills to be dangerous in them. From there, they made change in the world by organising people around their ideals, mission and purpose.
 
-The question that arises is what is my One Big Idea. What is the thing that I am going to build that will change the world, make a difference and make me a lot of money, give me power and influence.
+The question that arises is what is my One Big Idea. What is the thing that I am going to build that will change the world, make a difference and make me a lot of money, give me power and influence?
 
