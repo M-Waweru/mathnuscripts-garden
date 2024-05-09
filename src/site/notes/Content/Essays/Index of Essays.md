@@ -52,6 +52,7 @@ Essays are evolving products of my writing. They are a flowing stream of ideas t
 - [[Content/Essays/Working should be fun\|Working should be fun]]
 - [[Content/Essays/Why Land is Expensive\|Why Land is Expensive]]
 - [[Content/Essays/What are the Mathnuscripts\|What are the Mathnuscripts]]
+- [[Content/Essays/Tomorrow Will Be Better Than Today\|Tomorrow Will Be Better Than Today]]
 
 { .block-language-dataview}
 
