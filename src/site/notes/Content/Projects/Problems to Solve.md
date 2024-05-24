@@ -143,4 +143,8 @@
 
 56. A game or interactive product that turns the distractive capability of smartphones and the internet into productive and educational tool for children.
 
+57. Pornography addiction is a taboo to talk about but it affects more people than they are willing to admit. Problems such as loneliness, PED .etc are just the tip of the iceberg. What application, content or programme can be made to solve this issue?
+
+58. A service that gives you access to pay-only or subscription content like research papers, articles .etc. It can be crowdfunded. It can be pirated. Whichever works.
+
 
