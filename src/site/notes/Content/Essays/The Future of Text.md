@@ -6,7 +6,7 @@
 
 This essay is inspiring by the Future of Text, a group of thinkers on a mission to improve how we interact with text to create, store, share, access and interact with knowledge for the benefit of mankind. You can information about the project below:
 
-- [Webiste](https://thefutureoftext.org/)
+- [Website](https://thefutureoftext.org/)
 - [Software Company](https://www.augmentedtext.info/)
 - [Founder](https://frodehegland.com/) 
 
