@@ -13,7 +13,7 @@ This is a long-term project to collect the ideas, thoughts and knowledge that I 
 
 The goal is to have this knowledge base as the beginning of something bigger than myself. Something that I will leave behind and benefit other people.
 
-The Mathnuscripts are divided into [[Content/Essays/Index of Essays\|Index of Essays]], [[Content/Notes/Index of Notes\|Index of Notes]] and so on.
+The [[Content/Projects/Mathnuscripts\|Mathnuscripts]] are divided into [[Content/Essays/Index of Essays\|Index of Essays]], [[Content/Notes/Index of Notes\|Index of Notes]] and so on.
 
 ## Getting Started
 
