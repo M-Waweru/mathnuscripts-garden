@@ -9,6 +9,9 @@
 3. https://jzhao.xyz/ - built Quartz
 4. http://www.markwk.com/blog/archives/
 5. https://tom.preston-werner.com/
+6. https://mmapped.blog/
+7. https://longform.asmartbear.com/
+8. https://www.matthewball.co/
 
 They also have [[Fleeting Notes/Inspiring PKM Systems\|Inspiring PKM Systems]] behind their writing
 
