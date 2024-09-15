@@ -52,6 +52,7 @@
 		1. Scanning my journals using my phone and turn them into a pdf
 		2. Reading my journals aloud and recording the audio to convert from voice to text
 		3. Using a smart pen that can capture my entries and notes as I write
+		4. Using telegram to send images to Claude to transcript and add them as notes on Obsidian
 
 14. Making mobile phones have more utility and be less about consumption. Instead of mobile phones, we can call them mobile computers that allow you to do what desktops and laptops do. Refer to [[Content/Notes/Making Mobile Phones have Utility\|Making Mobile Phones have Utility]]
 
@@ -146,5 +147,9 @@
 57. Pornography addiction is a taboo to talk about but it affects more people than they are willing to admit. Problems such as loneliness, PED .etc are just the tip of the iceberg. What application, content or programme can be made to solve this issue?
 
 58. A service that gives you access to pay-only or subscription content like research papers, articles .etc. It can be crowdfunded. It can be pirated. Whichever works.
+
+59. Digitise the security register at organisations and provide verification and marketing features for these companies using this data that they collect. Replace the black counter book.
+
+60. A personal life calendar on your website that you can show a timeline and even photos of your life. It even shows the places you have been to on a map with the pictures as well. It can integrate with Google Photos.
 
 
