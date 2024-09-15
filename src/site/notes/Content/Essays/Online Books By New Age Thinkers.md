@@ -10,4 +10,7 @@ This will expand but I thought it good to share them.
 
 1. https://www.readthesequences.com/
 2. https://thenetworkstate.com/
-3. https://worldaftercapital.org/
+3. https://worldaftercapital.org/ - [[Fleeting Notes/A World After Capital\|A World After Capital]]
+4. https://jrin771.github.io/nanosystems.html - [[Fleeting Notes/Nanosystems\|Nanosystems]]
+5. https://nanosyste.ms/ - [[Fleeting Notes/Nanosystems\|Nanosystems]]
+6. https://situational-awareness.ai/ - [[Fleeting Notes/Situational Awareness - Publication\|Situational Awareness - Publication]]
