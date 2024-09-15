@@ -18,7 +18,7 @@ This is a list of what I think the future will look like. How I will build it is
 
 6. Robots to perform both general and specialised tasks. Humanoid robots, space exploration robots, drones .etc. [[Boston Dynamics\|Boston Dynamics]] is doing great stuff.
 
-7. Biotechnology. Using nanotechnology to create an artificial immune system that cures all diseases and includes ageing as one them.
+7. Biotechnology. Using nanotechnology to create an artificial immune system that cures all diseases and includes ageing as one them. [[Fleeting Notes/Nanosystems\|Nanosystems]]
 
 ## References
 [[Content/The Future/Building the Future\|Building the Future]]
