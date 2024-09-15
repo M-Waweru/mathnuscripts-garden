@@ -9,8 +9,8 @@ Related to [[Content/Projects/Problems to Solve\|Problems to Solve]]
 1. Shukran - financial services platform that allows service workers to receive tips, save, invest and grow financially.
 2. A crowdsourced farming enterprise that allows busy people to invest in agriculture and reap the rewards of it.
 3. A knowledge-based community, podcast and publication that brings smart people together to have intellectually stimulating conversations and have a good time.
-4. A platform for digital gardeners to easily host their notes and share their favourites in a shared newsfeed for digital gardening notes.
-5. An AI bot that processed through your digital notes and gets a firm understanding of who you are and acts as your friend, biographer, psychologist, personal assistant and even auditor. Rafiki.ai
+4. A platform for digital gardeners to easily host their notes and share their favorites in a shared newsfeed for digital gardening notes.
+5. An AI bot that processes through your digital notes and gets a firm understanding of who you are and acts as your friend, biographer, psychologist, personal assistant and even auditor. Rafiki.ai
 6. Search function using AI that parses through company data to unlock insights, produce documentation, onboard new team members and create insightful reports based on standard practices of accounting, OKRs .etc. Can be made public for some items and private of others. [[Content/Notes/Vector Databases and AI\|Vector Databases and AI]]. Chief Knowledge Officer
 7. A fun and engaging knowledge game for kids that teaches them about all topics that are important. Similar to the knowledge books I had as a kid but as an interactive game. From World Wars to animals to technology and so on.
 8. A house management app for renters and home owners in apartment building to getting information on paying bills like water and rent, discovering recommended businesses like mechanics, barbers and water providers and so on.
