@@ -28,7 +28,7 @@ Firstly, you need to set up your Django project.
 HTMX allows you to access AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML.
 
 - Download the HTMX library from https://htmx.org/.
-- Paste the downloaded file into your static directory in your Django project.
+- Paste the downloaded file into your static-directory in your Django project.
 - In your HTML file where you want to use HTMX features, link it as follows:
 
    ```html
