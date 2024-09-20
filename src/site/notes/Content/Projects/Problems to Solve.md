@@ -152,4 +152,8 @@
 
 60. A personal life calendar on your website that you can show a timeline and even photos of your life. It even shows the places you have been to on a map with the pictures as well. It can integrate with Google Photos.
 
+61. An emergency fund service where you save your money monthly on standing order and you can retrieve these funds by calling a certain phone number and explaining why you need the money asap. You are sent the amount immediately on your request but at a fee. You are then asked to commit to saving this amount back again for another emergency.
+
+62. A stablecoin infrastructure for Kenya and Africa as a whole to move money. [[Stablecoin Alternative to Mpesa\|Stablecoin Alternative to Mpesa]]
+
 
