@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/content/the-future/fulfilling-genesis-and-the-blueprint-to-change-a-nation/","noteIcon":"2"}
 ---
 
+# [[A Blueprint to Changing a Nation and Fulfilling.canvas|A Blueprint to Changing a Nation and Fulfilling Genesis]]
+
 ![WhiteboardBlueprint.jpg](/img/user/Media/WhiteboardBlueprint.jpg)
 
 This essay was inspired by a great conversation I had with Martin, our Financial Services Lead at Shukran. From a whiteboarding session, we crafted a draft blueprint to address the greatest challenge facing us as Kenyans—our nation’s prosperity, or rather, the lack of it. Our country has been captured by state actors and corrupt individuals who seek only personal gain at the expense of everyone else.
@@ -17,7 +19,6 @@ But wait, what Genesis is being fulfilled? Remember in the Bible when God create
 Kind regards,  
 The Mathnuscripts.
 
-Link to Canvas: [[A Blueprint to Changing a Nation and Fulfilling.canvas|A Blueprint to Changing a Nation and Fulfilling]]
-## Image of the Canvas below
+Click here for full image of blueprint [here](https://drive.google.com/file/d/1Bq9vFQ_7tz21vGJpHutaFwdnVnUarPm4/view?usp=sharing)
 
 ![A Blueprint to Changing a Nation and Fulfilling Genesis.png](/img/user/Media/A%20Blueprint%20to%20Changing%20a%20Nation%20and%20Fulfilling%20Genesis.png)
