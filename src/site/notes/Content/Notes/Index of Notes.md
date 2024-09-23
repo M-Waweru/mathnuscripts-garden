@@ -57,5 +57,6 @@ Notes are small and discrete ideas that are extracted from longer journal entrie
 - [[Content/Notes/We Really Don't Know How to Compute\|We Really Don't Know How to Compute]]
 - [[Content/Notes/Understanding Debt\|Understanding Debt]]
 - [[Content/Notes/Zones of Work\|Zones of Work]]
+- [[Content/Notes/Leaning into Responsibility at a Startup\|Leaning into Responsibility at a Startup]]
 
 { .block-language-dataview}
