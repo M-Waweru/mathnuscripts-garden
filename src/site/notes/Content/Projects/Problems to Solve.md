@@ -148,7 +148,7 @@
 
 58. A service that gives you access to pay-only or subscription content like research papers, articles .etc. It can be crowdfunded. It can be pirated. Whichever works.
 
-59. Digitise the security register at organisations and provide verification and marketing features for these companies using this data that they collect. Replace the black counter book.
+59. Digitise the security register at organisations and provide verification and marketing features for these companies using this data that they collect. Replace the black counter book. [[Fleeting Notes/Digitalizing Security Registrations\|Digitalizing Security Registrations]]
 
 60. A personal life calendar on your website that you can show a timeline and even photos of your life. It even shows the places you have been to on a map with the pictures as well. It can integrate with Google Photos.
 
