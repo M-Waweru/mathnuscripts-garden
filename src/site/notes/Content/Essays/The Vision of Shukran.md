@@ -7,7 +7,6 @@
 At Shukran, we believe that an equitable world is a better world. With our digital tipping platform, we ensure that the most deserving service workers are rewarded and increase the tipping culture.
 
 ![intropitchpic.png|650](/img/user/Media/intropitchpic.png)
-
 In this short essay, I will dive into the vision of Shukran and why you should care about it.
 
 Kenya has seen a surge in the quality of restaurants, with over 860 restaurants in Nairobi alone. The middle-class is getting an appetite for different forms of cuisine and culinary experiences. The top go-to leisure activity involves getting a bite at your favourite restaurant or grabbing a happy hour with friends. We love meeting at restaurants to have a great time.
