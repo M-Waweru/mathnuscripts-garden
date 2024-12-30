@@ -3,6 +3,7 @@
 ---
 
 # Duara
+
 This is the latest idea that Elvis and I came up with. 
 
 Duara is circle is Kiswahili. We chose the name to express how vision to build the global payments system for a hyper-connected world.
