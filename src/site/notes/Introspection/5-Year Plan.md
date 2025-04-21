@@ -82,4 +82,14 @@ There are various countries I would like to travel to based on [[Introspection/W
 
 ## 5. Maspeedy Collection
 
-Related to [[Introspection/Ride, Fly and Drive\|Ride, Fly and Drive]]
+Related to 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+The RFD project is where I will do 3 things:
+1. Ride motorcycles
+2. Fly planes, airships and paramotors
+3. Drive fast and custom cars
+
+</div></div>

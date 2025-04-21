@@ -126,7 +126,21 @@
 
 48. Private repository of your personal information such as KRA pin, ID pictures and so on that can easily be referenced by companies for KYC purposes, personal purposes and so on. Allows quick sharing and providing access to specific things for certain people.
 
-49. [[Fleeting Notes/Automated kitchen and bartender\|Automated kitchen and bartender]]
+49. 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Based on this video on Youtube: [here](https://www.youtube.com/watch?v=OUJe0Wmfo5g)
+
+Some students at MIT designed and built an automated kitchen that cooks meals in less than 3 minutes. This would be a gamechanger in hospitality if you could have a fully-automated kitchen that cooks your food. 
+
+It would also be great if it could make cocktails since I usually get frustrated at places like Nairobi Street Kitchen that take long to get you a drink. By using a vending machine model, you can easily get a beer or a cocktail very quickly by a push of a button.
+
+To automate a bar, since I like to drink, I would have to understand how they take stock of their drinks inventory and see how I can improve it even further.
+
+</div></div>
+
 
 50. A low-cost, long-distance telecommunications network using LoRa and WiFi technologies to rival traditional telecommunications companies in low-income rural areas.
 
@@ -150,10 +164,20 @@
 
 59. Digitise the security register at organisations and provide verification and marketing features for these companies using this data that they collect. Replace the black counter book. [[Fleeting Notes/Digitalizing Security Registrations\|Digitalizing Security Registrations]]
 
-60. A personal life calendar on your website that you can show a timeline and even photos of your life. It even shows the places you have been to on a map with the pictures as well. It can integrate with Google Photos.
+60. A personal life calendar on your website that you can show a timeline and even photos of your life. It even shows the places you have been to on a map with the pictures as well. It can integrate with Google Photos. [[Life Calendar App\|Life Calendar App]] - a grid-like visualisation of your entire life in weeks that gives you perspective on your life and achievements. It also allows you to share with people. Momento Mori
 
 61. An emergency fund service where you save your money monthly on standing order and you can retrieve these funds by calling a certain phone number and explaining why you need the money asap. You are sent the amount immediately on your request but at a fee. You are then asked to commit to saving this amount back again for another emergency.
 
 62. A stablecoin infrastructure for Kenya and Africa as a whole to move money. [[Stablecoin Alternative to Mpesa\|Stablecoin Alternative to Mpesa]]
 
+63. Creating a startup directory of Africa startup. It is like Product Hunt for African startups
 
+64. Create a prediction market for African politics and Kenyan related stuff. It can be based on different topics with at least 10 voting topics at a time. Based on this, people vote with their money. Each topic will have a lead member, you collects questions from users or from current affairs and has a targets on how much engagement they should have for their topic.
+
+65. Building a RAG application for Obsidian users to understand their notes better and see patterns.
+
+66. A next-generation project management tool that makes the process of making tasks as easy as speech and the visualises  and makes sense of your daily performance compared to your long-term goals
+
+67. An AI-course that allows people to learn about AI and how to use it in their daily lives. It is self-paced, with great explanation, examples and immediate ways that you can start implementing.
+
+68. A course or app or social media handle that teaches Kenyan civic education.
