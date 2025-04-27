@@ -20,4 +20,4 @@ Just an interesting thought. In order to find few people that you agree with on 
 
 Another idea on streaming movies from torrents to users. This can be a good project to work on. [[Content/Projects/Hacker Studio\|Hacker Studio]] needs to come to light so we can work on this stuff
 
-[[Cockroaches\|Cockroaches]] are interesting creatures. They are very resilient and don't die. I should look into them.
+[[Fleeting Notes/Cockroaches\|Cockroaches]] are interesting creatures. They are very resilient and don't die. I should look into them.
