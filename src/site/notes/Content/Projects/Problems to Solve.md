@@ -64,7 +64,7 @@
 
 18. Connecting smart polymath-like people together to share knowledge, have great conversations, build great things and have fun. This is the [[Fleeting Notes/Cerebrations\|Cerebrations]] by [[Isaac Asimov\|Isaac Asimov]]
 
-19. On [[Fleeting Notes/Managing My Digital Environment\|Managing My Digital Environment]], build a system that can aggregate the data and activity about a person's digital life and give reports on how to improve on it. This is the [[Digital Life Dashboard\|Digital Life Dashboard]]
+19. On [[Fleeting Notes/Managing My Digital Environment\|Managing My Digital Environment]], build a system that can aggregate the data and activity about a person's digital life and give reports on how to improve on it. This is the [[Fleeting Notes/Digital Life Dashboard\|Digital Life Dashboard]]
 
 20. A [[Projects/Life Dashboard\|Life Dashboard]] to keep track of goals and visions. It can aggregate health data, finances, digital activity and so on.
 

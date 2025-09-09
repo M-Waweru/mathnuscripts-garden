@@ -12,7 +12,7 @@ This is a list of what I think the future will look like. How I will build it is
 
 3. [[Nuclear Fusion\|Nuclear Fusion]] as the ultimate energy generation. By using high temperature and high pressure on hydrogen or deutirium molecules, we can harness the power of the sun to generate energy for our needs in industry, transport .etc. In the meantime, we can do [[Nuclear Fission\|Nuclear Fission]]. [[Helion Energy\|Helion Energy]] is doing amazing stuff in this sector.
 
-4. Semantic Web for [[Fleeting Notes/Knowledge Management\|Knowledge Management]] for the internet. [[The Next Generation of the Internet\|The Next Generation of the Internet]]. Refer to [[Fleeting Notes/Wolfram Alpha\|Wolfram Alpha]]. Knowledge is tokenised, linked and connected in novel ways to create new knowledge
+4. Semantic Web for [[Fleeting Notes/Knowledge Management\|Knowledge Management]] for the internet. [[Fleeting Notes/The Next Generation of the Internet\|The Next Generation of the Internet]]. Refer to [[Fleeting Notes/Wolfram Alpha\|Wolfram Alpha]]. Knowledge is tokenised, linked and connected in novel ways to create new knowledge
 
 5. Artificial Intelligence to encode human knowledge on the internet and the world. This is where the next generation of software products will come from. ChatGPT by [[OpenAI\|OpenAI]] is clearly leading the charge.
 

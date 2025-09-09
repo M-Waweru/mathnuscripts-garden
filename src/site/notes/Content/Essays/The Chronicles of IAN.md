@@ -44,20 +44,20 @@ Yes, predator.
 Let’s talk about the sexual misconduct — because it wasn’t just one incident. Women at IAN have spoken, privately and publicly. Tweets, Glassdoor, whispers in hallways. You don’t sleep with 5+ women at your workplace and expect no drama. You don’t hit on married employees and expect your company to thrive. You don’t bring wild honey back home and expect not to get stung. Control. Your. Dick.
 ## The NGO Hypocrisy Model
 
-Another reason why I left was because of the **hypocrisy**, which took me far too long to see and even longer to admit.
+Another reason why I left was because of the **hypocrisy**, which took me too long to see and even longer to admit.
 
 When I joined, I genuinely believed Mark was a noble person with good intentions for young people on our continent. But when I left, I saw him as no different from the founders of NGOs that claim to end poverty in Kibera — noble on the outside, but built on exploitation. His words masked a sinister business model: telling emotional stories of struggling young Africans to high-net-worth individuals in Silicon Valley, securing donor money, giving fellows small stipends, and pocketing the rest.
 
 Once I saw it, I couldn’t unsee it.
 
-It was in the small things. The bounce in his step wearing expensive sneakers. The Porsche Cayenne parked in the middle of the lot. The daily Artcaffe lunches. The dinners at restaurants where he was a regular. The trips to Naivasha, Nanyuki, Zanzibar, the U.S. That’s a lot of comfort for someone “sacrificing” to change the African Narrative. Clearly, it was a hardship allowance — compensation for a few meetings shouting at fellows (aka “alignment”), fireside chats, and convincing rich Americans to send more money. He’d then spend his time dreaming up new ways to multiply his new-found capital.
+It was in the small things. The bounce in his step wearing expensive sneakers. The Porsche Cayenne parked in the middle of the lot. The daily Artcaffe lunches. The dinners at restaurants where he was a regular. The trips to Naivasha, Nanyuki, Zanzibar, the U.S. That’s a lot of comfort for someone “sacrificing” to change the African Narrative. Clearly, it was hardship allowance — compensation for a few meetings of shouting at fellows (aka “alignment”), fireside chats, and convincing rich Americans to send more money. He’d then spend his time dreaming up new ways to multiply his new-found capital.
 
 All the while, he preached that money wasn’t something we should worry about — as he lived large and paid his team peanuts to slave away for him.  
 **Talk about preaching water and drinking wine.**
 
 To be honest, it’s a solid plan — and he’s made good money from it.  
 In terms of **capitalism**? 10 out of 10.  
-In terms of **changing the African Narrative**? 3 out of 10.
+In terms of **changing the African Narrative**? 0 out of 10.
 
 Let me explain.
 ## The Founder-Factory Illusion
@@ -101,13 +101,13 @@ And when I asked about it, I got scolded. Told it was “at his discretion” to
 
 For context, Shukran was incubated at IAN from July 2021. It received investment from FHV in October 2022 of $150K. It then received an additional $50K in funding from FHV again in November 2023. IAN has incubated over 10+ startups which have benefited from the supposed $1M in investment. Only 3 companies exist today, with Shukran being the most successful. The only reason is because I put in the work when others would have given up. However, the cap table is diabolical:
 
-| **Shareholder**                  | **Role/Contribution**                                          | **Investment**        | **Equity %**                     | **Remarks**                                                                 |
-| -------------------------------- | -------------------------------------------------------------- | --------------------- | -------------------------------- | --------------------------------------------------------------------------- |
-| **IAN**                          | Incubator (10+ startups supported), run by Mark                | Supposed $1M (shared) | **10%**                          | Shared across all IAN ventures — overstated in value and diluted in impact  |
-| **FHV (Future Hill Ventures)**   | Investor led by Mark                                           | $175,000              | **15%**                          | Actual capital invested over 2 rounds ($150K in Oct 2022, $50K in Nov 2023) |
-| **Mathenge (Me)**                | Led Shukran to PMF, full-time, 3+ years, $700/month net salary | $0                    | **10%** _(vesting over 7 years)_ | Core operator, builder, innovator — lowest stake per contribution           |
-| **Mark**                         | Advisor, fundraiser, part-time involvement                     | $25,000               | **20%**                          | Rewarded disproportionately to time, risk, or output                        |
-| **Growth Studio Ventures (GSV)** | Anti-dilution shell company fully owned by Mark                | $0                    | **45%**                          | No investment, no active role — major holder with full discretionary power  |
+| **Shareholder**                  | **Role/Contribution**                                          | **Investment**        | **Equity %**                     | **Remarks**                                                                      |
+| -------------------------------- | -------------------------------------------------------------- | --------------------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| **IAN**                          | Incubator (10+ startups supported), run by Mark                | Supposed $1M (shared) | **10%**                          | Shared across all IAN ventures — overstated in value and diluted in impact       |
+| **FHV (From Here Ventures)**     | Investor led by Mark but other investors funded it.            | $175,000              | **15%**                          | Actual capital invested over 2 rounds ($150K in Oct 2022, $50K in Nov 2023)      |
+| **Mathenge (Me)**                | Led Shukran to PMF, full-time, 3+ years, $700/month net salary | $0                    | **10%** _(vesting over 7 years)_ | Core operator, builder, innovator, vision-bearer — lowest stake per contribution |
+| **Mark**                         | Advisor, fundraiser, part-time involvement                     | $25,000               | **20%**                          | Rewarded disproportionately to time, risk, or output                             |
+| **Growth Studio Ventures (GSV)** | Anti-dilution shell company fully owned by Mark                | $0                    | **45%**                          | No investment, no active role — major holder with full discretionary power       |
 
 I showed potential investors this structure and they were all shocked. Even my own family members weren’t willing to put a single shilling into the business — they were pissed off. For someone spending their waking hours building a company and carrying the vision, getting only 10% over a 7-year vesting period at pre-seed level is simply absurd.
 ## Dilution Lies and Secondary Truths
@@ -120,7 +120,7 @@ Here’s how it really works: if an investor wants to buy into Shukran, GSV woul
 
 And since Mark is the only person on the board, he can authorize that transaction without challenge — effectively taking a cut from every funding round into his own personal holding company.
 
-In essence, I was doing 100% of the work for someone investing other people’s money, while getting just **5% of the company at full dilution**, vesting over 7 years, on a low salary — all while being disrespected. And the worst part? He told us to “stay faithful to the vision” while rolling around in a Porsche, living large.
+In essence, I was doing 100% of the work for someone investing other people’s money, while getting just **5% of the company at full dilution**, vesting over 7 years, on a low salary — all while being disrespected. And the worst part? He told us to “stay faithful to the vision” while rolling around in a Porsche, living large
 ## I Didn't Sign Up to Work for a Boss
 
 I have a founder’s spirit. I didn’t sign up to work for someone.
@@ -137,7 +137,7 @@ At that point, I had to take a step back and think clearly. What am I actually g
 | **Ownership & Equity**    | **Cost:** 5–10% equity over 7 years with full dilution, no board seat, no decision power  <br>**Benefit:** Potential upside if company exits (low probability) | **Cost:** Forfeited future equity and early-stage share value  <br>**Benefit:** Freedom to build something I fully own |
 | **Compensation**          | **Cost:** $700/month net salary, no performance upside                                                                                                         | **Cost:** Short-term loss of income while resetting  <br>**Benefit:** Potential to earn more or raise capital directly |
 | **Workload**              | **Cost:** 70–100 hour weeks, chronic fatigue, constant pressure                                                                                                | **Cost:** Need to rebuild support systems and team  <br>**Benefit:** Chance to work on terms aligned with my energy    |
-| **Respect & Recognition** | **Cost:** Disrespected, treated like an employee not a founder                                                                                                 | **Benefit:** Reclaimed self-worth and personal integrity                                                               |
+| **Respect & Recognition** | **Cost:** Disrespected, treated like an employee not a founder                                                                                                 | **Benefit:** Reclaimed self-worth and become the founder I was always meant to be                                      |
 | **Governance Structure**  | **Cost:** Mark-controlled board, GSV secondaries enrich him at every round                                                                                     | **Benefit:** Now free to build a clean, fair structure with aligned co-founders and investors                          |
 | **Cultural Environment**  | **Cost:** Fear-based culture, toxicity, misconduct, psychological damage                                                                                       | **Benefit:** Peace of mind, moral clarity, safety                                                                      |
 | **Long-Term Alignment**   | **Cost:** Mission misused for exploitation, lack of autonomy                                                                                                   | **Benefit:** Realigned with my founder spirit and personal vision                                                      |

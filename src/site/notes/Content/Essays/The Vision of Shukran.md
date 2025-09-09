@@ -4,6 +4,9 @@
 
 # The Vision of Shukran
 
+> [!summary]
+> At Shukran, we believe that an equitable world is a better world. Our digital tipping platform rewards deserving service workers and grows the tipping culture.
+
 At Shukran, we believe that an equitable world is a better world. With our digital tipping platform, we ensure that the most deserving service workers are rewarded and increase the tipping culture.
 
 ![intropitchpic.png|650](/img/user/Media/intropitchpic.png)
@@ -11,61 +14,66 @@ In this short essay, I will dive into the vision of Shukran and why you should c
 
 Kenya has seen a surge in the quality of restaurants, with over 860 restaurants in Nairobi alone. The middle-class is getting an appetite for different forms of cuisine and culinary experiences. The top go-to leisure activity involves getting a bite at your favourite restaurant or grabbing a happy hour with friends. We love meeting at restaurants to have a great time.
 
-In all of this, we have the people that make all of this possible. From the restaurants owners, managers, waitstaff and kitchen staff who break their backs to ensure that we have a great time after work, during eating times and during the weekend. As we have a great time, they are hard at work. For those who do a memorable job, it is unsurprising for them to get a tip and appreciation from the customers that they serve. The person goes home motivated and with extra money in their pocket to pay for expenses and even save for something nice.
+In all of this, we have the people who make it possible: the restaurant owners, managers, waitstaff, and kitchen staff who break their backs to ensure that we have a great time after work, during meals, and on weekends. As we have a great time, they are hard at work. For those who do a memorable job, it is unsurprising for them to get a tip and appreciation from the customers they serve. The person goes home motivated and with extra money in their pocket to pay for expenses and even save for something nice.
 
-The power of tip is amazing as it has transformed the lives of many people who come from low income backgrounds or low education levels. They are given an opportunity to show the work of their hands and they have gone on to pay for their own education, support their families back home and ensure that they live decent lives. This is a gift to many of these people and the tips of their customers makes it even better. Showing them kindness can push them to become better people. Indeed, tipping changes lives!
+The power of tipping is amazing, as it has transformed the lives of many people who come from low-income backgrounds or low education levels. They are given an opportunity to show the work of their hands, and they have gone on to pay for their own education, support their families back home, and ensure that they live decent lives. This is a gift to many of these people, and the tips of their customers make it even better. Showing them kindness can push them to become better people. Indeed, tipping changes lives!
 
-"Clearly the impact of tipping is amazing, but what problem are you trying to solve?" Good question
+> [!question] The core question
+> "Clearly the impact of tipping is amazing, but what problem are you trying to solve?"
 
-Most of these service workers earn very little compared to people in formal employment. This is very similar to a lot of people in our country who call themselves hustlers. However, service workers in the restaurant industry have a unique advantage, they have receive extra money through tips. By giving great service, they stand a chance to double their salaries and change their financial situation. That's a powerful thing. It is very similar to how salespeople have commissions on sales from their employer. Tips are the same concept but from a different stakeholder, the customer. The customer acts as the judge of performance and chooses to reward the service worker. 
+Most of these service workers earn very little compared to people in formal employment. This is very similar to a lot of people in our country who call themselves hustlers. However, service workers in the restaurant industry have a unique advantage: they receive extra money through tips. By giving great service, they stand a chance to double their salaries and change their financial situation. That's a powerful thing. It is very similar to how salespeople have commissions on sales from their employer. Tips are the same concept but from a different stakeholder—the customer. The customer acts as the judge of performance and chooses to reward the service worker. 
 
-With that in mind, you find that the tip transaction happens between the tipper and the service worker. This transaction can happen using cash, mobile money or card. All 3 of these are valid ways but they have their challenges. 
+With that in mind, you find that the tip transaction happens between the tipper and the service worker. This transaction can happen using cash, mobile money, or card. All three of these are valid ways, but they have their challenges. 
 1. Cash
-	- Most people don't carry cash these days to make payments. This mostly done through mobile money
+	- Most people don't carry cash these days to make payments. This is mostly done through mobile money.
 2. Mobile money
-	- This is a frequently used method to tip but it exposes your phone number to the service worker. This means that your phone can easy be abused by bad actors
+	- This is a frequently used method to tip, but it exposes your phone number to the service worker. This means that your phone can easily be abused by bad actors.
 3. Card
-	- A card tip can only go through the business, which puts additional work on the business's side to split the bill and tip and send the tip to the waiter. It is also unsurprising to find that some businesses will not pay the waiters the tip or even tax it before sending it.
+	- A card tip can only go through the business, which puts additional work on the business's side to split the bill and tip and send the tip to the waiter. It is also unsurprising to find that some businesses will not pay the waiters the tip—or even tax it before sending it.
 
 
 From here, we can see a problem:
-*How can I tip a service worker using cashless means, in a private way and be confident that they will get it and benefit from it?*
+*How can I tip a service worker using cashless means, in a private way, and be confident that they will get it and benefit from it?*
 
-"Mmh, interesting problem. What is your solution?" I am glad you asked
+> [!question] Our solution
+> "Mmh, interesting problem. What is your solution?"
 
 Shukran is a digital tipping platform that offers:
 1. Cashless tipping in a cashless society
 2. Privacy when tipping using mobile money
 3. Direct tipping using card
 
-But sending and receiving tips is not enough to change lives. From our engagements with the market, it became clear that service workers are a fragmented lot with no formal representation like a society, an association and more importantly a SACCO. It was interesting to find that there are SACCOs for food chains like Java, Simbisa and so on but this was lacking for many other small restaurants, which make up the majority of these restaurants. Other sectors have SACCOs like teachers, farmers, bankers and so on. Why don't waiters have a SACCO? It was strange that no one had come up with one for the industry in general. It had to be done. It was just waiting for the right people to do it. In fact, between the tipping platform and the SACCO, most service workers fell in love with the SACCO.
+But sending and receiving tips is not enough to change lives. From our engagements with the market, it became clear that service workers are a fragmented lot with no formal representation like a society, an association, and more importantly a SACCO. It was interesting to find that there are SACCOs for food chains like Java, Simbisa, and so on, but this was lacking for many other small restaurants, which make up the majority of these restaurants. Other sectors have SACCOs like teachers, farmers, and bankers. Why don't waiters have a SACCO? It was strange that no one had come up with one for the industry in general. It had to be done. It was just waiting for the right people to do it. In fact, between the tipping platform and the SACCO, most service workers fell in love with the SACCO.
 
-What problem does the SACCO solve?
-*How can I save my tips and use them to grow myself financially and live a better life*
+> [!question] Why a SACCO?
+> What problem does the SACCO solve?
+*How can I save my tips and use them to grow myself financially and live a better life?*
 
 Shukran SACCO is a community-based, digital-first savings and credit cooperative that offers:
 1. Saving money to grow your financial future
 2. Credit and loans for development, emergencies and even education
 3. Digital platform for easy and seamless access to your funds
-4. Always on and supportive customer support
+4. Always-on and supportive customer support
 
-"This is great stuff, on paper at least. But what have you done so far?" Another great question
+> [!question] Traction so far
+> "This is great stuff, on paper at least. But what have you done so far?"
 
-After 8 months in the market, we have acquired 10 restaurant partners in Nairobi, with 700+ users and a transaction volume of $1000. We have recently received our SACCO certificate to start mobilising our waiting list of 117 service workers to start saving with us.
+After eight months in the market, we have acquired 10 restaurant partners in Nairobi, with 700+ users and a transaction volume of $1,000. We have recently received our SACCO certificate to start mobilising our waiting list of 117 service workers to start saving with us.
 
-The journey has been full of experimentation and learning. We have made decisions and got them right and we have made others and pivoted soon after. On the road to product-market fit, nothing is certain except the will to learn what the market wants, build it out and get feedback from the market. The product is not for us, it is for them, the customers. These are our tippers and service workers. We are a two-sided marketplace. People often ask who our customer is, they are usually looking for one customer but fail to realise that both the tipper and service worker are required to make this product successful. Sure, the tipper has more precedent from a marketing perspective but service workers are our greatest ambassadors and beneficiaries of the solution.
+The journey has been full of experimentation and learning. We have made decisions and got them right, and we have made others and pivoted soon after. On the road to product-market fit, nothing is certain except the will to learn what the market wants, build it out, and get feedback from the market. The product is not for us; it is for them—the customers. These are our tippers and service workers. We are a two-sided marketplace. People often ask who our customer is; they are usually looking for one customer but fail to realise that both the tipper and the service worker are required to make this product successful. Sure, the tipper has more precedent from a marketing perspective, but service workers are our greatest ambassadors and beneficiaries of the solution.
 
 "Wow, I like the moves. Where are going from here?" Thank you for asking my inquisitive fellow
 
-For the next 6 months, we are aiming to get the following:
+For the next six months, we are aiming to get the following:
 1. 100 activated restaurant partners
 2. 1000 saving SACCO members
 3. 500 recurring tippers
 4. 2 million shillings in tip volume
 
-We have a tonne of work to do and the sky is just the limit. We have things to hack right now like growing our restaurant partners, launching and growing our SACCO, acquiring and retain our tippers and cultivating our owner and investor network.
+We have a tonne of work to do, and the sky is just the limit. We have things to hack right now, like growing our restaurant partners, launching and growing our SACCO, acquiring and retaining our tippers, and cultivating our owner and investor network.
 
-"Mahn, the year is looking bright. What about the endgame?" Damn, you are asking all the right question mate
+> [!question] The endgame
+> "Mahn, the year is looking bright. What about the endgame?"
 
 We have 2 macro-ideas that we care about and they are very fundamental to how our market works and how we can disrupt it.
 
@@ -77,7 +85,8 @@ We have 2 macro-ideas that we care about and they are very fundamental to how ou
 
 Payments and Banking, the pillars of the financial sectors. A crazy goal indeed. Shukran can become a big player in this industry and create ripple effects and highlight cracks in how we deal with our finances.
 
-"Amazing vision but what does this mean for you" I am glad and terrified that you asked that question
+> [!question] Personal motivation
+> "Amazing vision but what does this mean for you?"
 
 When I was almost done with my 4th year in university, I knew that I didn't want to do something normal like apply for jobs and work in a corporate office wearing a tie. That was never an option. I wanted an environment where I can build things that have meaning and purpose. The impact of my work is very important to me and being connected to a mission directly is crucial. Being a cog in a big machine was something I saw as depressing. Purpose is what gives people happiness, not the other way around. I love the grind of building Shukran because I know that my efforts are leading towards something meaningful and impactful to someone else. It makes me feel useful and that's what I really want. Serving people is my love language. I am always willing to help because it makes me feel needed. I could say that it is a masculine thing but honestly, it is very personal. I know what it feels like not to be needed and to be rejected by the world. I know what it feels when people don't think you are good enough. I know what it feels when people treat you like a joke.
 

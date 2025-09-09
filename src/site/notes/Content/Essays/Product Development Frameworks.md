@@ -36,7 +36,7 @@ This doesn't mean that you shouldn't have a business model. Have the business mo
 
 Prudent startups raise money for growth
 
-## 4. 5 Steps process for rigourous implementation
+## 4. 5-step process for rigorous implementation
 
 Borrowed from Everyday Astronaut interview with Elon Musk at Starbase [Link](https://youtu.be/t705r8ICkRw?t=805)
 

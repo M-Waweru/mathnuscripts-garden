@@ -12,6 +12,8 @@
 6. https://mmapped.blog/
 7. https://longform.asmartbear.com/
 8. https://www.matthewball.co/
+9. https://worksinprogress.co/
+10. https://www.henrikkarlsson.xyz/
 
 They also have [[Fleeting Notes/Inspiring PKM Systems\|Inspiring PKM Systems]] behind their writing
 

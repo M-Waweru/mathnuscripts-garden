@@ -24,6 +24,6 @@ Whether it's 5 or 10 years down the line, it will be worth it.
 
 It takes a kind of optimism—sometimes even delusion—to watch the world fall apart around you and still believe in what it could be. Sometimes, you just need to be a mule—stubbornly holding on to a vision you believe is right, even when nothing seems to be working in your favor.
 
-Eventhough things happened the way they did, I believe that those who strive for good will eventually be vindicated. History has shown this time and time again: **truth always prevails**. Good always takes the day. No matter how long it takes, those who keep moving forward—no matter how slowly—can move mountains, sway nations, enlighten generations, and change the course of history.
+Even though things happened the way they did, I believe that those who strive for good will eventually be vindicated. History has shown this time and time again: **truth always prevails**. Good always takes the day. No matter how long it takes, those who keep moving forward—no matter how slowly—can move mountains, sway nations, enlighten generations, and change the course of history.
 
 And when they do, their essence lives on—etched into the minds and hearts of the people, the manuscripts and stories of our time, and the cultures and values of generations to come.

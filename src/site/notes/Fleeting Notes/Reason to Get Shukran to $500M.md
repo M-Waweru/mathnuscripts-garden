@@ -26,4 +26,4 @@ In the 1st year, I will cash out $15M. I will invest in the no. 1 and 2. Once th
 
 If Shukran doesn't make it to $500M and simply becomes a good business, then I will work on increasing my salary and looking to diversify my options.
 
-This will happen after the [[Introspection/5-Year Plan\|5-Year Plan]]
+This will happen after the [[Introspection/5-Year Plan - 2024\|5-Year Plan - 2024]]

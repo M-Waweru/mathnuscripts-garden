@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/introspection/draft-of-my-autobiography/","noteIcon":"2"}
 ---
 
+# Titles
+
+1. The Boy in the Sand
+2. On Top of the World
+3. Bet on Yourself
+
 # Tables of Contents
 
 1. Space - my 1st launch to space
