@@ -57,6 +57,8 @@ module.exports = async (data) => {
     timestampFormat: process.env.TIMESTAMP_FORMAT || "MMM dd, yyyy h:mm a",
     showCreated: process.env.SHOW_CREATED_TIMESTAMP ? process.env.SHOW_CREATED_TIMESTAMP == "true" : true,
     showUpdated: process.env.SHOW_UPDATED_TIMESTAMP ? process.env.SHOW_UPDATED_TIMESTAMP == "true" : true,
+    createdFrontmatterKey: process.env.CREATED_TIMESTAMP_FRONTMATTER_KEY || "dg-created",
+    updatedFrontmatterKey: process.env.UPDATED_TIMESTAMP_FRONTMATTER_KEY || "dg-updated",
   };
   const meta = {
     env: process.env.ELEVENTY_ENV,
