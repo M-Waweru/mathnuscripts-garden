@@ -11,3 +11,34 @@ body {
     //   color: black;
     //  }
 }
+
+.ai-badges {
+    display: flex;
+    gap: 8px;
+    margin: 6px 0;
+}
+.ai-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-size: 12px;
+    line-height: 18px;
+    background: #2a2a2a;
+    border: 1px solid #3a3a3a;
+}
+.ai-badge.ai-generated {
+    color: #ffcc66;
+    border-color: #775a1a;
+    background: rgba(255, 204, 102, 0.12);
+}
+.ai-badge.ai-enhanced {
+    color: #72dcff;
+    border-color: #2b5b66;
+    background: rgba(114, 220, 255, 0.12);
+}
+.timestamps .label {
+    opacity: 0.7;
+    margin-right: 4px;
+}
