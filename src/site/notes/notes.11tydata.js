@@ -72,16 +72,29 @@ module.exports = {
       });
       return noteSettings;
     },
-    // Compute created/updated timestamps and normalize AI flags
+    // Compute created/updated timestamps
+    // Priority order:
+    // 1) Note frontmatter keys (configurable via env: CREATED_TIMESTAMP_FRONTMATTER_KEY / UPDATED_TIMESTAMP_FRONTMATTER_KEY)
+    //    Defaults: dg-created / dg-updated
+    // 2) Explicit `created`/`updated` in frontmatter
+    // 3) Git history
+    // 4) Filesystem timestamps
     created: (data) => {
-      if (data.created) return data.created;
+      const createdKey = process.env.CREATED_TIMESTAMP_FRONTMATTER_KEY || "dg-created";
+      const explicitFrontmatterCreated = data[createdKey] || data.created;
+      if (explicitFrontmatterCreated) return explicitFrontmatterCreated;
       const { createdIso } = getCreatedAndUpdatedDates(data.page && data.page.inputPath);
       return createdIso;
     },
     updated: (data) => {
-      if (data.updated) return data.updated;
+      const updatedKey = process.env.UPDATED_TIMESTAMP_FRONTMATTER_KEY || "dg-updated";
+      const explicitFrontmatterUpdated = data[updatedKey] || data.updated;
+      if (explicitFrontmatterUpdated) return explicitFrontmatterUpdated;
       const { updatedIso } = getCreatedAndUpdatedDates(data.page && data.page.inputPath);
-      return updatedIso || (data.page && data.page.date ? data.page.date.toISOString && data.page.date.toISOString() : undefined);
+      return (
+        updatedIso ||
+        (data.page && data.page.date && data.page.date.toISOString && data.page.date.toISOString())
+      );
     },
     aiGenerated: (data) => {
       return data["ai-generated"] === true || data.aiGenerated === true;
