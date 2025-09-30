@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/words-on-the-marble-for-fertile-minds/","tags":["#quotes"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/fleeting-notes/words-on-the-marble-for-fertile-minds/","noteIcon":"2"}
 ---
 
 *“If you hold a gun and I hold a gun, we can talk about the law. If you hold a knife and I hold a knife, we can talk about rules. If you come empty-handed, and I come empty-handed, we can talk about reason. But if you hold a gun and I only have a knife, then the truth lies in your hand. If you have a gun and I have nothing, then what you hold in your hands isn’t just a weapon, it’s my life.*
