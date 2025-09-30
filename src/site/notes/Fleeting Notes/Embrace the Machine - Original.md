@@ -47,7 +47,7 @@ Let’s say you are a tea farmer and you have 10 acres of tea. There are 2 scena
 
 Most people only see the 2 scenarios because they think in a zero-sum way. However, there is a 3rd option:
 
-3. Employ 10 people with machines who take 1 day to pick tea leaves from 1 acre, meaning it will take 1 day to pick all the tea.
+3. Employ 10 people with machines who take 1 day to pick tea leaves from 10 acres, meaning it will take 1 day to pick all the tea.
     
 
 This scenario unlocks a lot of potential. If the farmer had 1000 acres of tea, your harvest capacity would not be limited by how many human beings you have, but by how many machines controlled by people you can deploy. These machines and their operators can then become consultants for different tea farms.
