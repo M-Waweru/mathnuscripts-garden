@@ -2,41 +2,107 @@
 {"dg-publish":true,"permalink":"/fleeting-notes/embrace-the-machine-original/","noteIcon":"2"}
 ---
 
-Today I got to watch some interesting videos about robotics, AI and the transition period we are going to have that will completely put capitalism as we know it in an existential crisis. Let's dive into.
+# Embrace the Machine: AI, Robotics, and the Coming Transition
 
-It started by me watching Cold Fusion's [video](https://youtu.be/Eys5oQabMF8?list=TLPQMTcwOTIwMjVAIP2MGUSy8A) on the rapid advancement of robotics. Who would have thought that robots would be as more affordable than a new car. That's incredible considering that humanoid robots have not been in the domain of consumers. Things have instantly changed and we are now witnessing something magic. The blend between AI and robotics is coming together.
+### The Spark
 
-I have been telling many people who would listen, "Embrace the Machine". AI is not going anywhere and it is only going to get better. You can bet on many things but bet on AI and take the next steps in your life accordingly. If you know that AI is going to be running companies in the next 3 years, you should be starting an AI native company and testing out very AI solutions to become your future employees. If you know that robots will be in every home in the next 5 years, start thinking about how you can build applications on top of that economy or even provide services if that's what you want to do. I would optimise for products over services in this day and age. You have to ride the revenue wave of the new applications that will be created and implemented in the real world using AI.
+Today I watched some interesting videos about robotics, AI, and the transition period we are going to have that will completely put capitalism as we know it in an existential crisis. Let’s dive into it.
 
-As we embrace the machine, it will become very clear that no human need apply in the job economy. Many of the top-tier models have an IQ of 110. The average IQ of human beings is 90. Most people cannot compete. When AI starts moving from knowledge work, which most of the middle-class, to manual labour, it will be catastrophic. Knowledge work or white-collar work is where most of the middle-class recedes. This is what AI is getting very good at and most people will not be able to compete. With the merger of robots, which has been accelerated by transformers (the underlying data structure that lead to the AI boom), even blue-collar jobs will not be safe. Imagine having an intelligent robot that doesn't eat, sleep, complain and only needs energy and maintenance. That will be cheaper, easier to deal with, more competent than every human being. In fact, the best position that a human being can be in is telling the AI what to do. Caveat, even this will change, why? Because human beings cannot reason and make logical decisions as fast as an AI. In fact, the best position for the human being is to either own the company and let his autonomous mechatronic workforce do it's thing and get out of the bloody way. The rest can simple be unemployed. However, I do see a situation where the best blue-collar and white-collar workers, will be those who can use AI the best and direct their metallic-counterparts to do their jobs. This means that the people who will dominate the short and medium-term future will be the people who can use AI the best.
+It started with Cold Fusion’s [video](https://youtu.be/Eys5oQabMF8?list=TLPQMTcwOTIwMjVAIP2MGUSy8A) on the rapid advancement of robotics. Who would have thought that robots would be more affordable than a new car? That’s incredible considering that humanoid robots have not been in the domain of consumers. Things have instantly changed, and we are now witnessing something magical. The blend between AI and robotics is coming together.
 
-It is about time that I wrote about this analogy which I keep telling people. This is my theory of automation using an analogy. The theory, which should be a law, is that automation opens up more work that can, needs and should have been done, but could not, because of human limitations. Take the example of the tea plantations in Kericho. How many times have we heard the tea pickers resisting automation. Every time a machine has been brought to pick tea, they have threatened to burn the farm down. Fine, they are trying to keep their jobs but the unfortunate thing is that the machine is or will get better at picking tea at a cheaper price than them. They are going against the tide of history and that is not a good position to be in.
+### “Embrace the Machine”
 
-Let's say you are a tea farmer and you have 10 acres of tea. There are 2 scenarios to choose from: 
-1. Employ 10 people who take 1 day to pick tea leaves from 1 acre, meaning it will take 10 days to pick all the tea. 
+I have been telling many people who would listen: _“Embrace the Machine.”_ AI is not going anywhere, and it is only going to get better. You can bet on many things, but bet on AI and take the next steps in your life accordingly.
+
+If you know that AI is going to be running companies in the next 3 years, you should be starting an AI-native company and testing out AI solutions to become your future employees. If you know that robots will be in every home in the next 5 years, start thinking about how you can build applications on top of that economy or even provide services if that’s what you want to do.
+
+I would optimise for products over services in this day and age. You have to ride the revenue wave of the new applications that will be created and implemented in the real world using AI.
+
+### No Human Need Apply
+
+As we embrace the machine, it will become very clear that no human need apply in the job economy. Many of the top-tier models have an IQ of 110. The average IQ of human beings is 90. Most people cannot compete.
+
+When AI starts moving from knowledge work, which most of the middle class relies on, to manual labour, it will be catastrophic. Knowledge work or white-collar work is where most of the middle class resides. This is what AI is getting very good at, and most people will not be able to compete.
+
+With the merger of robots, even blue-collar jobs will not be safe. Imagine having an intelligent robot that doesn’t eat, sleep, complain, and only needs energy and maintenance. That will be cheaper, easier to deal with, and more competent than every human being.
+
+The best position a human being can be in is telling the AI what to do. Caveat: even this will change, because human beings cannot reason and make logical decisions as fast as AI. In fact, the best position for a human being is to either own the company and let his autonomous mechatronic workforce do its thing or get out of the bloody way.
+
+The rest can simply be unemployed. However, I do see a situation where the best blue-collar and white-collar workers will be those who can use AI the best and direct their metallic counterparts. This means that the people who will dominate the short- and medium-term future will be the people who can use AI the best.
+
+## My Theory of Automation
+
+It is about time that I wrote about this analogy which I keep telling people. This is my theory of automation using an analogy. The theory, which should be a law, is that automation opens up more work that can, needs, and should have been done, but could not, because of human limitations.
+
+Take the example of the tea plantations in Kericho. How many times have we heard the tea pickers resisting automation? Every time a machine has been brought to pick tea, they have threatened to burn the farm down. Fine, they are trying to keep their jobs, but the unfortunate thing is that the machine is—or will get—better at picking tea at a cheaper price than them. They are going against the tide of history, and that is not a good position to be in.
+
+### The Tea Farm Example
+
+Let’s say you are a tea farmer and you have 10 acres of tea. There are 2 scenarios to choose from:
+
+1. Employ 10 people who take 1 day to pick tea leaves from 1 acre, meaning it will take 10 days to pick all the tea.
+    
 2. Employ 1 person with a machine who takes 1 day to pick tea leaves from 1 acre, meaning it will take 10 days to pick all the tea.
+    
 
-Most people only see the 2 scenarios because they think in a zero-sum way. We cannot blame them, that's how the world has worked for a long-time. However, there is a 3rd option.
+Most people only see the 2 scenarios because they think in a zero-sum way. However, there is a 3rd option:
 
-1. Employ 10 people with machines who take 1 day to pick tea leaves from 1 acre, meaning it will take 1 day to pick all the tea.
+3. Employ 10 people with machines who take 1 day to pick tea leaves from 1 acre, meaning it will take 1 day to pick all the tea.
+    
 
-This scenarios unlocks a lot of potential because it means that if the farmer (you), had 1000 acres of tea or any crop for that matter, your harvest capacity will not be limited by how many human beings I have, but how many machines controlled by people that I can deploy. These machines and their operators can then become consultants for different tea farms to collect tea and so on.
+This scenario unlocks a lot of potential. If the farmer had 1000 acres of tea, your harvest capacity would not be limited by how many human beings you have, but by how many machines controlled by people you can deploy. These machines and their operators can then become consultants for different tea farms.
 
-However, it presents a problem which we Kenyans and even everyone all over the world has experiences. When something is democratises and made abundant, the cost of that service plummets. The classic example is Uber. So many Uber drivers will tell who how they are paid poorly and how they are struggling to make ends meet. Because Uber democratized getting into the taxi business by opening up the taxi market to more consumers, more people joined this gig and it has saturated the market. This means competition and therefore no one makes a profit in the end, except Uber and the banks that are lending car loans but also have to write-off a lot of loans due to non-payment.
+### The Uber Problem
 
-The model of automation only works when you are the business, not the operator. Therefore, most people need to stop being the operator and become the business owner. In my view, I see no other way of doing this. You can also be a C-Suite executive or someone that deals a lot in coordination of high-level decisions, this will also be safe as well for a while. However, it may not be for long. The question of where AI stops automating and leaves the rest to human being is not clear and everyone has an opinion. It can be so dynamic and intelligent that it starts companies to solve problems. Or, it will be good enough to do all the work but not really own anything that have a human boss. Who knows? We are defining this rules as we go. But make no mistake, you don't want to be the guy at the bottom who is holding on to a job will eventually be replaced by AI. 
+However, it presents a problem which we Kenyans, and the world at large, have experienced. When something is democratised and made abundant, the cost of that service plummets.
 
-Another set of people are who will do well are people who build networks with people. They know people and can leverage their networks to get what they want. This person can be in sales, partnerships, strategy, entertainment and so on. There are certain human-centric positions that will be safe for now. Things like hospitality will be hard to automate because people who go for a safari to disconnect, not see another robot. 
+The classic example is Uber. So many Uber drivers will tell you how they are paid poorly and how they are struggling to make ends meet. Because Uber democratized getting into the taxi business by opening up the market to more consumers, more people joined and it saturated the market. Competition increased, and therefore no one makes a profit in the end—except Uber and the banks that are lending car loans.
 
-It also brings up an important point that will shake the foundations of the economy. Money is the representation of the energy produced by people who work and can be used to trade for other things that other people have produced. It allows you to represent the value of your work in a form that is standard, so that you can trade it for other goods and services from other people. This is what makes the economy work. Many is trading hands through buying and selling. However, what happens when most people don't have a job and are therefore not earning money. Who will have the money to buy the goods and services that the machines will create? We will just have abundance but no money to buy all that abundance. Well, some things could happen. Due to this abundance, the cost of those goods will go to near zero. This sounds great, everything will be free. However, they will be a transition period where most people will not have a job but the goods and services will be at the same price or even higher due to inflation and the wealth accumulation at the top.
+The model of automation only works when you are the **business**, not the operator. Most people need to stop being the operator and become the business owner.
 
-We will be going through a transition period of pain, conflict and competition over work, resources and meaning. It will not be pretty when people who identified with their jobs don't have one. It will not be pretty when people who relied on a paycheck don't have one anymore. It will not be pretty when we have many unemployable men and women who have nothing to do. Conflict will be what will take place. What is the solution?
+## The Future of Work
 
-Well, I have a couple in mind based on this video [here](https://youtu.be/ziLmtuLm-LU?list=TLPQMTcwOTIwMjVAIP2MGUSy8A) that featured Emad Mostaque, the creator of Stable Diffusion and some of my own ideas mixed in.
+In my view, the safest roles will be:
 
-1. We need to restructure how the capitalist system works. We cannot function on a currency that is that magically created by a small group of people. Money will have to be created by something else. Bitcoin is a good contender but also something that is linked to human beings. This is where the UBI or universal basic income concept comes in. Each human will have a set of tokens that are minted and given to them for use throughout their lifetime. These tokens can then be traded for goods and services to make their lives better, more convenient and help them to achieve their goals. They can use them to pursue a passion project, learn new things, see new places and so on. The best thing is take creativity will be allowed to flourish in interesting ways.
-2. We can also get universal basic income from companies that use AI or essentially, we will tax the use of AI. This means that the value created by AI will be taxed and used to fund UBI. This could be interesting but also problematic because certain if not all companies will proceed to start showing losses but investing heavily in buying for GPUs to increase CAPEX and so on.
-3. We can pass a law that forces companies to hire human beings for certain roles and even have a quota for how many human beings they should have based on revenue. This may or may not work because we already have companies like Apple that make $10M per employee. That's already a lot and it is about to get even better or worse depending on how you think about it. It will also become an unnecessary for companies to plug in a human into their workforce if the AI can do it better. The human will just have a job but no work.
-4. We start funding human projects like exploration of the stars, frontier science and get the best human beings augmented using AI to work on that. This means that the best people will have very engaging work that is will push the limits of our civilisation. This eventually becomes an opt-in effort, where companies that are making billions and trillions from AI will simple fund more research and development. This is already happening with AI development but it will go into the real stuff. We can also get into climate change, healthcare, community development, philanthrophy. All of these things require people who will care about them and work with machines to solve challenges in those spaces. This is something that big AI companies can even start today.
+- Business owners leveraging AI and robotics
+    
+- C-Suite executives or coordinators of high-level decisions (though this may not last forever)
+    
+- People who build networks with people and leverage those networks (sales, partnerships, strategy, entertainment, hospitality)
+    
 
-Anyway, I think that everyone should embrace the machine. We are leaving in exciting times and I don't think one person or any group of people can figure out where this thing is going. We can only predict and work on making our predictions a reality. The most dangerous position you can be in at this time is be a bystander and observer of the killer things that are taking place right now. You would be foolish to do so and ignorance is not an excuse anymore. You have a laptop, a phone and an internet connection. If you get cooked, it is on you.
+Hospitality will be harder to automate—people who go on safari want to disconnect, not see another robot.
+
+## The Economic Crisis
+
+It also brings up an important point that will shake the foundations of the economy.
+
+Money is the representation of the energy produced by people who work. It allows you to trade your work for goods and services. But what happens when most people don’t have a job and therefore aren’t earning money?
+
+Who will buy the goods and services that machines create? We may end up with abundance but no money to buy it. Goods might go to near zero in cost, but before that happens, there will be a painful transition. Jobs will vanish, wages will vanish, and yet prices may still rise due to inflation and wealth accumulation at the top.
+
+This transition will be one of pain, conflict, and competition over work, resources, and meaning. It will not be pretty.
+
+## Possible Solutions
+
+Based on [this video](https://youtu.be/ziLmtuLm-LU?list=TLPQMTcwOTIwMjVAIP2MGUSy8A) featuring Emad Mostaque (creator of Stable Diffusion), and my own ideas:
+
+1. **Restructure Capitalism:**  
+    Move away from a currency magically created by a small group of people. Introduce universal tokens linked to human beings, distributed as a form of UBI.
+    
+2. **Tax AI Companies:**  
+    Companies using AI should contribute a portion of value creation back to society through universal basic income.
+    
+3. **Mandatory Human Quotas:**  
+    Laws could require companies to hire a minimum number of humans based on revenue, though this may not be sustainable long-term.
+    
+4. **Fund Human Projects:**  
+    Direct AI-generated wealth into exploration, frontier science, climate change, healthcare, and community development—projects that machines alone cannot care about.
+
+## Final Word
+
+Anyway, I think that everyone should embrace the machine. We are living in exciting times, and I don’t think one person or any group of people can figure out where this is going. We can only predict and work on making our predictions a reality.
+
+The most dangerous position you can be in at this time is to be a bystander and observer of the killer things that are taking place right now. You would be foolish to do so, and ignorance is not an excuse anymore.
+
+You have a laptop, a phone, and an internet connection. If you get cooked, it is on you.
