@@ -4,4 +4,24 @@
 
 # When a Man Knows His Destiny is Greatness
 
-When a man knows that he is destined for greatness, he need not worry. He must flow to where destiny leads. He must follow his heart. He must stay convicted. He must see the world for what it can be and not what is it. He must have unwavering optimism, he must work to the best that he can and then some more. He must cultivate his vision, nurturing it like a garden and ensure it's nourishment. He must weed his life of bad habits, people and thoughts consistently. He must keep his people close but not too close as to let their voices dampen his inner voice. He must listen to his enemies and use their spitefully words as fuel for his progress. He must willing step into life's problem. He must risk failure as he run into the fires of life, knowing that life is short and the best things in life come from risk. He must enjoy the fight, not with the hopes of winning but for the reward of the fight itself, for it is the reward to fight and continue to fight another day. He must win like it was his fate to win and he must lose like it is good to lose for a change. He must take life willingly, knowing that it is the only one he has. He must live life, not for the approval of his creator, but for very joy of living. For when he stands in front of his creator, may he say that he lives a great life, full of great duality, and with gratitude, he will show thanks for the brief opportunity engage in this game of life. May he walk through life with excuses, for he knows himself, he knows the finiteness of life and he is gracefully in his moves. He neither be controlled, brought down nor trodden, for only the soul experiences these things and his soul is in his keeping alone. May he hold his good and evil his heart, integrated in harmony and to be used if need be. May he hold his good in his heart and produce great love, peace and harmony around him. May he hold his evil in his heart and produce terror, chaos and death in his wake. However, with both side, may he choose to be good, not in fear of punishment, but in pure kindness and love for his neighbour. May he not be a good man but a great man. He is his destiny and it calls unto him all the days of his life and beyond.
+When a man knows that he is destined for greatness, he need not worry. He must flow to where destiny leads, following his heart and staying convicted. He must see the world not as it is, but as it can be. With unwavering optimism, he must work to the best of his ability—and then some more.
+
+He must cultivate his vision like a garden—nurturing it, feeding it, and protecting it from decay. He must weed his life of bad habits, people, and thoughts consistently. He must keep his people close but not so close that their voices drown out his own.
+
+He must listen to his enemies and use their spiteful words as fuel for his progress. He must willingly step into life’s problems, risk failure, and run into the fires of life—knowing that the best things in life are born from risk.
+
+He must enjoy the fight—not for the hope of victory, but for the reward of the fight itself. The joy is not only in winning, but in continuing to fight another day. He must win as though it were his destiny to win, and he must lose as though it were good to lose for a change.
+
+He must take life willingly, for it is the only one he has. He must live not for the approval of his creator, but for the joy of living itself. And when he stands before his creator, may he say that he lived a great life—one of duality, balance, and gratitude—for the brief opportunity to play this game of life.
+
+May he walk through life without excuses, for he knows himself and the finiteness of life. He moves gracefully, neither controlled nor brought down, for only the soul experiences these things, and his soul is his to keep.
+
+May he hold both good and evil in his heart—integrated in harmony and ready to be used if need be.  
+
+May he use his good to create love, peace, and harmony around him.  
+
+May he hold his evil to unleash terror, chaos, and death if the world demands it.  
+
+Yet, even with both within him, may he choose good—not out of fear of punishment, but from pure kindness and love for his neighbor.
+
+Let him not strive to be a good man, but a great one. For he _is_ his destiny, and it calls to him all the days of his life—and beyond.

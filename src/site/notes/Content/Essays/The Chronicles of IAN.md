@@ -41,7 +41,9 @@ That’s when he started calling IAN the OG Gen-Z movement, immediately after th
 Yes, predator.
 ## From Mentor to Predator
 
-Let’s talk about the sexual misconduct — because it wasn’t just one incident. Women at IAN have spoken, privately and publicly. Tweets, Glassdoor, whispers in hallways. You don’t sleep with 5+ women at your workplace and expect no drama. You don’t hit on married employees and expect your company to thrive. You don’t bring wild honey back home and expect not to get stung. Control. Your. Dick.
+Let’s talk about the sexual misconduct — because it wasn’t just one incident. Women at IAN have spoken, privately and publicly. Tweets, Glassdoor, whispers in hallways. You don’t sleep with 5+ women at your workplace and expect no drama. You don’t hit on married employees and expect your company to thrive. You don’t bring wild honey back home and expect not to get stung. Control. Your. Dick. 
+
+If you don't believe me, take a look at [these posts online](https://drive.google.com/drive/folders/1PLbLsI7Ds3IXwVdzfbqCUrxK9dEpj87C?usp=sharing). Beware!
 ## The NGO Hypocrisy Model
 
 Another reason why I left was because of the **hypocrisy**, which took me too long to see and even longer to admit.
@@ -178,7 +180,7 @@ I realised I had been played from day one. No lies indeed — just a play on my 
 
 This is a cautionary tale. About following founders who parade as saviours. About organisations that ride on noble pursuits but run like cults. About ego disguised as vision. About the cost of silence. But it’s also a story of awakening.
 
-I learnt what it means to be an entrepreneur — in a world where people are always looking out for themselves. I learnt that even good intentions can hide greed. That words mean nothing without aligned incentives and proper paperwork. That power, if unchecked, corrupts. If a man comes to preach salvation, you must ask him if he is Jesus Christ. Because he obviously not, you must ask him what’s in it for me and what you are getting out of this. If he only preaches that one must have faith and trust in him — ask him to kindly fuck off. I am done with prophets. We have too many in Kenya. The world would be better off without them.
+I learnt what it means to be an entrepreneur — in a world where people are always looking out for themselves. I learnt that even good intentions can hide greed. That words mean nothing without aligned incentives and proper paperwork. That power, if unchecked, corrupts. If a man comes to preach salvation, you must ask him if he is Jesus Christ. Because he is obviously not, you must ask him what’s in it for me and what you are getting out of this. If he only preaches that one must have faith and trust in him — ask him to kindly fuck off. I am done with prophets. We have too many in Kenya. The world would be better off without them.
 
 But I also learnt this: if you give people a fair deal, a compelling vision, and room to grow — they will go to war with you. If you treat them with respect and generosity, they will ride or die for you. Humans are tribal. Lead your tribe right, and they’ll carry you through hell and back.
 
